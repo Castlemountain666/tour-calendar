@@ -1,0 +1,1032 @@
+[
+  {
+    "artist": "Def Leppard",
+    "date": "2026-06-19",
+    "city": "Zürich",
+    "country": "Switzerland",
+    "venue": "Hallenstadion, Zürich",
+    "url": "https://defleppard.com/tour/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Foo Fighters",
+    "date": "2026-06-19",
+    "city": "Paris",
+    "country": "France",
+    "venue": "Paris La Défense Arena, Paris",
+    "url": "https://foofighters.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-06-19",
+    "city": "Camaiore",
+    "country": "Italy",
+    "venue": "La Prima Estate, Camaiore",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Def Leppard",
+    "date": "2026-06-21",
+    "city": "Dessel",
+    "country": "Belgium",
+    "venue": "Graspop Metal Meeting, Dessel",
+    "url": "https://defleppard.com/tour/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Foo Fighters",
+    "date": "2026-06-21",
+    "city": "Landgraaf",
+    "country": "Netherlands",
+    "venue": "Megaland / Pinkpop Festival, Landgraaf",
+    "url": "https://foofighters.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-06-21",
+    "city": "Lignano Sabbiadoro",
+    "country": "Italy",
+    "venue": "Arena Alpe Adria, Lignano Sabbiadoro",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-06-22",
+    "city": "Zagreb",
+    "country": "Croatia",
+    "venue": "INmusic Festival, Zagreb",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Def Leppard",
+    "date": "2026-06-23",
+    "city": "Dortmund",
+    "country": "Germany",
+    "venue": "Westfalenhallen, Dortmund",
+    "url": "https://defleppard.com/tour/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Foo Fighters",
+    "date": "2026-06-25",
+    "city": "Liverpool",
+    "country": "England",
+    "venue": "Anfield, Liverpool",
+    "url": "https://foofighters.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Def Leppard",
+    "date": "2026-06-26",
+    "city": "Belfast",
+    "country": "Northern Ireland",
+    "venue": "Belsonic @ Ormeau Park, Belfast",
+    "url": "https://defleppard.com/tour/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Foo Fighters",
+    "date": "2026-06-27",
+    "city": "Liverpool",
+    "country": "England",
+    "venue": "Anfield, Liverpool",
+    "url": "https://foofighters.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Def Leppard",
+    "date": "2026-06-28",
+    "city": "Glasgow",
+    "country": "Scotland",
+    "venue": "OVO Hydro, Glasgow",
+    "url": "https://defleppard.com/tour/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Def Leppard",
+    "date": "2026-06-30",
+    "city": "Sheffield",
+    "country": "England",
+    "venue": "Utilita Arena, Sheffield",
+    "url": "https://defleppard.com/tour/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Foo Fighters",
+    "date": "2026-07-01",
+    "city": "Berlin",
+    "country": "Germany",
+    "venue": "Olympiastadion, Berlin",
+    "url": "https://foofighters.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Def Leppard",
+    "date": "2026-07-02",
+    "city": "London",
+    "country": "England",
+    "venue": "The O2 Arena, London",
+    "url": "https://defleppard.com/tour/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Foo Fighters",
+    "date": "2026-07-03",
+    "city": "Vienna",
+    "country": "Austria",
+    "venue": "Ernst Happel Stadion, Vienna",
+    "url": "https://foofighters.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Def Leppard",
+    "date": "2026-07-04",
+    "city": "Birmingham",
+    "country": "England",
+    "venue": "bp pulse LIVE, Birmingham",
+    "url": "https://defleppard.com/tour/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Foo Fighters",
+    "date": "2026-07-05",
+    "city": "Milan",
+    "country": "Italy",
+    "venue": "Ippodromo La Maura / I-Days Milano, Milan",
+    "url": "https://foofighters.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Def Leppard",
+    "date": "2026-07-06",
+    "city": "Manchester",
+    "country": "England",
+    "venue": "Co-op Live, Manchester",
+    "url": "https://defleppard.com/tour/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Def Leppard",
+    "date": "2026-07-08",
+    "city": "Paris",
+    "country": "France",
+    "venue": "Accor Arena, Paris",
+    "url": "https://defleppard.com/tour/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Foo Fighters",
+    "date": "2026-07-08",
+    "city": "Madrid",
+    "country": "Spain",
+    "venue": "Valdebebas / Mad Cool, Madrid",
+    "url": "https://foofighters.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Foo Fighters",
+    "date": "2026-07-10",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "venue": "Passeio Marítimo de Algés / NOS Alive, Lisbon",
+    "url": "https://foofighters.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-07-10",
+    "city": "Washington",
+    "country": "DC, United States",
+    "venue": "The Anthem, Washington, DC",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-07-11",
+    "city": "Brooklyn",
+    "country": "NY, United States",
+    "venue": "Brooklyn Paramount, Brooklyn, NY",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-07-12",
+    "city": "Brooklyn",
+    "country": "NY, United States",
+    "venue": "Brooklyn Paramount, Brooklyn, NY",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-07-14",
+    "city": "Toronto",
+    "country": "Canada",
+    "venue": "RBC Amphitheatre, Toronto",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-07-15",
+    "city": "Essex Junction",
+    "country": "VT, United States",
+    "venue": "Champlain Valley Exposition, Essex Junction, VT",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-07-17",
+    "city": "Boston",
+    "country": "MA, United States",
+    "venue": "MGM Music Hall at Fenway, Boston, MA",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-07-18",
+    "city": "New Haven",
+    "country": "CT, United States",
+    "venue": "College Street Music Hall, New Haven, CT",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-07-19",
+    "city": "Port Chester",
+    "country": "NY, United States",
+    "venue": "The Capitol Theatre, Port Chester, NY",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-07-21",
+    "city": "Indianapolis",
+    "country": "IN, United States",
+    "venue": "Everwise Amphitheater at White River State Park, Indianapolis, IN",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-07-23",
+    "city": "Chicago",
+    "country": "IL, United States",
+    "venue": "Radius, Chicago, IL",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-07-24",
+    "city": "Chicago",
+    "country": "IL, United States",
+    "venue": "The Salt Shed (Outdoors), Chicago, IL",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-07-25",
+    "city": "Clarkston",
+    "country": "MI, United States",
+    "venue": "Pine Knob Music Theatre, Clarkston, MI",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Def Leppard",
+    "date": "2026-07-30",
+    "city": "Wacken",
+    "country": "Germany",
+    "venue": "Wacken Open Air 2026, Wacken",
+    "url": "https://defleppard.com/tour/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Foo Fighters",
+    "date": "2026-08-04",
+    "city": "Toronto",
+    "country": "Canada",
+    "venue": "Rogers Stadium, Toronto",
+    "url": "https://foofighters.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Foo Fighters",
+    "date": "2026-08-06",
+    "city": "Detroit",
+    "country": "United States",
+    "venue": "Ford Field, Detroit",
+    "url": "https://foofighters.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Foo Fighters",
+    "date": "2026-08-08",
+    "city": "Chicago",
+    "country": "United States",
+    "venue": "Soldier Field, Chicago",
+    "url": "https://foofighters.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Foo Fighters",
+    "date": "2026-08-10",
+    "city": "Cleveland",
+    "country": "United States",
+    "venue": "Huntington Bank Field, Cleveland",
+    "url": "https://foofighters.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Foo Fighters",
+    "date": "2026-08-13",
+    "city": "Philadelphia",
+    "country": "United States",
+    "venue": "Lincoln Financial Field, Philadelphia",
+    "url": "https://foofighters.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Foo Fighters",
+    "date": "2026-08-15",
+    "city": "Nashville",
+    "country": "United States",
+    "venue": "Nissan Stadium, Nashville",
+    "url": "https://foofighters.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Foo Fighters",
+    "date": "2026-08-17",
+    "city": "Washington",
+    "country": "DC, United States",
+    "venue": "Nationals Park, Washington, DC",
+    "url": "https://foofighters.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-08-17",
+    "city": "Seoul",
+    "country": "South Korea",
+    "venue": "YES24 Live Hall, Seoul",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-08-19",
+    "city": "Shanghai",
+    "country": "China",
+    "venue": "RED ROCK, Shanghai",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-08-21",
+    "city": "Almaty",
+    "country": "Kazakhstan",
+    "venue": "Park Live Almaty, Almaty",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-08-23",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "venue": "Babylon Soundgarden, Istanbul",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-08-25",
+    "city": "London",
+    "country": "England",
+    "venue": "Eventim Apollo, London",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-08-26",
+    "city": "London",
+    "country": "England",
+    "venue": "Eventim Apollo, London",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-08-28",
+    "city": "Bristol",
+    "country": "England",
+    "venue": "The Prospect Building, Bristol",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-08-29",
+    "city": "Newcastle",
+    "country": "England",
+    "venue": "O2 City Hall Newcastle, Newcastle",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-08-31",
+    "city": "Belfast",
+    "country": "Northern Ireland",
+    "venue": "The Telegraph Building, Belfast",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-09-01",
+    "city": "Dublin",
+    "country": "Ireland",
+    "venue": "3Olympia Theatre, Dublin",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-09-02",
+    "city": "Dublin",
+    "country": "Ireland",
+    "venue": "3Olympia Theatre, Dublin",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Foo Fighters",
+    "date": "2026-09-04",
+    "city": "Rio de Janeiro",
+    "country": "Brazil",
+    "venue": "Barra Olympic Park / Rock in Rio, Rio de Janeiro",
+    "url": "https://foofighters.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Foo Fighters",
+    "date": "2026-09-12",
+    "city": "Fargo",
+    "country": "United States",
+    "venue": "Fargodome, Fargo",
+    "url": "https://foofighters.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Foo Fighters",
+    "date": "2026-09-15",
+    "city": "Regina",
+    "country": "Canada",
+    "venue": "Mosaic Stadium, Regina",
+    "url": "https://foofighters.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Foo Fighters",
+    "date": "2026-09-17",
+    "city": "Edmonton",
+    "country": "Canada",
+    "venue": "Commonwealth Stadium, Edmonton",
+    "url": "https://foofighters.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-09-18",
+    "city": "Newport",
+    "country": "KY, United States",
+    "venue": "MegaCorp Pavilion, Newport, KY",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-09-19",
+    "city": "East Aurora",
+    "country": "NY, United States",
+    "venue": "Borderland Festival, East Aurora, NY",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Foo Fighters",
+    "date": "2026-09-20",
+    "city": "Vancouver",
+    "country": "Canada",
+    "venue": "BC Place, Vancouver",
+    "url": "https://foofighters.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-09-20",
+    "city": "Richmond",
+    "country": "VA, United States",
+    "venue": "Midtown Green / Iron Blossom Festival, Richmond, VA",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Foo Fighters",
+    "date": "2026-09-24",
+    "city": "Louisville",
+    "country": "United States",
+    "venue": "Kentucky Exposition Center / Bourbon & Beyond, Louisville",
+    "url": "https://foofighters.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-09-24",
+    "city": "San Francisco",
+    "country": "CA, United States",
+    "venue": "Bill Graham Civic Auditorium, San Francisco, CA",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-09-25",
+    "city": "Pomona",
+    "country": "CA, United States",
+    "venue": "Fox Theater, Pomona, CA",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Foo Fighters",
+    "date": "2026-09-26",
+    "city": "Paradise",
+    "country": "United States",
+    "venue": "Allegiant Stadium, Paradise",
+    "url": "https://foofighters.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-09-28",
+    "city": "Los Angeles",
+    "country": "CA, United States",
+    "venue": "Hollywood Palladium, Los Angeles, CA",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-09-29",
+    "city": "Los Angeles",
+    "country": "CA, United States",
+    "venue": "Hollywood Palladium, Los Angeles, CA",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-09-30",
+    "city": "Del Mar",
+    "country": "CA, United States",
+    "venue": "The Sound, Del Mar, CA",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-10-02",
+    "city": "Las Vegas",
+    "country": "NV, United States",
+    "venue": "Fontainebleau Las Vegas, Las Vegas, NV",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-10-03",
+    "city": "Phoenix",
+    "country": "AZ, United States",
+    "venue": "Arizona Financial Theatre, Phoenix, AZ",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-10-04",
+    "city": "Albuquerque",
+    "country": "NM, United States",
+    "venue": "Revel, Albuquerque, NM",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-10-06",
+    "city": "Austin",
+    "country": "TX, United States",
+    "venue": "Moody Amphitheater, Austin, TX",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-10-07",
+    "city": "Dallas",
+    "country": "TX, United States",
+    "venue": "The Bomb Factory, Dallas, TX",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-10-09",
+    "city": "Nashville",
+    "country": "TN, United States",
+    "venue": "The Truth, Nashville, TN",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Def Leppard",
+    "date": "2026-10-17",
+    "city": "Querétaro",
+    "country": "Mexico",
+    "venue": "Autódromo de Querétaro, Querétaro",
+    "url": "https://defleppard.com/tour/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Def Leppard",
+    "date": "2026-10-19",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "venue": "Palacio De Los Deportes, Mexico City",
+    "url": "https://defleppard.com/tour/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Def Leppard",
+    "date": "2026-10-21",
+    "city": "Guadalajara",
+    "country": "Mexico",
+    "venue": "Arena VFG Guadalajara, Guadalajara",
+    "url": "https://defleppard.com/tour/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Def Leppard",
+    "date": "2026-10-24",
+    "city": "San Salvador",
+    "country": "El Salvador",
+    "venue": "Cuscatlán Stadium, San Salvador",
+    "url": "https://defleppard.com/tour/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Def Leppard",
+    "date": "2026-10-27",
+    "city": "Alajuela",
+    "country": "Costa Rica",
+    "venue": "Anfiteatro Imperial Parque Viva, Alajuela",
+    "url": "https://defleppard.com/tour/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Def Leppard",
+    "date": "2026-10-30",
+    "city": "Quito",
+    "country": "Ecuador",
+    "venue": "Estadio Olímpico Atahualpa, Quito",
+    "url": "https://defleppard.com/tour/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Def Leppard",
+    "date": "2026-11-02",
+    "city": "Bogotá",
+    "country": "Colombia",
+    "venue": "Movistar Arena, Bogotá",
+    "url": "https://defleppard.com/tour/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Def Leppard",
+    "date": "2026-11-05",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "venue": "Movistar Arena, Buenos Aires",
+    "url": "https://defleppard.com/tour/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Foo Fighters",
+    "date": "2026-11-05",
+    "city": "Brisbane",
+    "country": "Australia",
+    "venue": "Suncorp Stadium, Brisbane",
+    "url": "https://foofighters.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Foo Fighters",
+    "date": "2026-11-07",
+    "city": "Townsville",
+    "country": "Australia",
+    "venue": "Queensland Country Bank Stadium, Townsville",
+    "url": "https://foofighters.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Def Leppard",
+    "date": "2026-11-08",
+    "city": "Santiago",
+    "country": "Chile",
+    "venue": "Movistar Arena, Santiago",
+    "url": "https://defleppard.com/tour/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-11-08",
+    "city": "Minneapolis",
+    "country": "MN, United States",
+    "venue": "The Armory, Minneapolis, MN",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-11-09",
+    "city": "Madison",
+    "country": "WI, United States",
+    "venue": "The Sylvee, Madison, WI",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Foo Fighters",
+    "date": "2026-11-10",
+    "city": "Sydney",
+    "country": "Australia",
+    "venue": "Accor Stadium, Sydney",
+    "url": "https://foofighters.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-11-10",
+    "city": "Milwaukee",
+    "country": "WI, United States",
+    "venue": "Landmark Credit Union Live, Milwaukee, WI",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Foo Fighters",
+    "date": "2026-11-12",
+    "city": "Newcastle",
+    "country": "Australia",
+    "venue": "McDonald Jones Stadium, Newcastle",
+    "url": "https://foofighters.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-11-12",
+    "city": "Pittsburgh",
+    "country": "PA, United States",
+    "venue": "Citizens Live at The Wylie, Pittsburgh, PA",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-11-13",
+    "city": "Charlotte",
+    "country": "NC, United States",
+    "venue": "The Fillmore Charlotte, Charlotte, NC",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Foo Fighters",
+    "date": "2026-11-14",
+    "city": "Melbourne",
+    "country": "Australia",
+    "venue": "Marvel Stadium, Melbourne",
+    "url": "https://foofighters.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-11-14",
+    "city": "Charlotte",
+    "country": "NC, United States",
+    "venue": "The Fillmore Charlotte, Charlotte, NC",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-11-16",
+    "city": "Orlando",
+    "country": "FL, United States",
+    "venue": "Hard Rock Live Orlando, Orlando, FL",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Foo Fighters",
+    "date": "2026-11-17",
+    "city": "Adelaide",
+    "country": "Australia",
+    "venue": "Coopers Stadium, Adelaide",
+    "url": "https://foofighters.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-11-17",
+    "city": "Miami Beach",
+    "country": "FL, United States",
+    "venue": "The Fillmore Miami Beach, Miami Beach, FL",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-11-18",
+    "city": "Miami Beach",
+    "country": "FL, United States",
+    "venue": "The Fillmore Miami Beach, Miami Beach, FL",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-11-20",
+    "city": "Atlanta",
+    "country": "GA, United States",
+    "venue": "Coca-Cola Roxy, Atlanta, GA",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-11-21",
+    "city": "Atlanta",
+    "country": "GA, United States",
+    "venue": "Coca-Cola Roxy, Atlanta, GA",
+    "url": "https://jackwhiteiii.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Foo Fighters",
+    "date": "2027-01-19",
+    "city": "Christchurch",
+    "country": "New Zealand",
+    "venue": "One New Zealand Stadium, Christchurch",
+    "url": "https://foofighters.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Foo Fighters",
+    "date": "2027-01-22",
+    "city": "Auckland",
+    "country": "New Zealand",
+    "venue": "Western Springs Stadium, Auckland",
+    "url": "https://foofighters.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  },
+  {
+    "artist": "Foo Fighters",
+    "date": "2027-01-25",
+    "city": "Perth",
+    "country": "Australia",
+    "venue": "HBF Park, Perth",
+    "url": "https://foofighters.com/tour-dates/",
+    "note": "Seed/manual from initial calendar file",
+    "source_type": "manual"
+  }
+]
