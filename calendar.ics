@@ -1,1369 +1,1739 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//OpenAI ChatGPT//Kiertuekalenteri//FI
+PRODID:-//Tour Calendar//GitHub Pages//FI
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Kiertuekalenteri - Foo Fighters, Def Leppard, Jack White
-X-WR-CALDESC:Kiertuekalenteri. Tiedosto sisältää ChatGPT:n keräämät päivä
- määrät; päivittäinen tarkistus tapahtuu erillisessä ChatGPT-automaatiomu
- istutuksessa.
+X-WR-CALNAME:Kiertuekalenteri
+X-WR-CALDESC:Päivittyvä bändi- ja tapahtumakalenteri
 X-WR-TIMEZONE:Europe/Helsinki
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:4f681c48c3a4a95455f21dff03b385fdcbc474cb@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
-DTSTART;VALUE=DATE:20260619
-DTEND;VALUE=DATE:20260620
-SUMMARY:Def Leppard – Hallenstadion\, Zürich
-LOCATION:Hallenstadion\, Zürich\, Switzerland
-DESCRIPTION:Def Leppard tour date. Source: https://defleppard.com/tour/. 
- reference: https://www.deflepparduk.com/2026tour.html
-URL:https://defleppard.com/tour/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:15af74f7cfaf4565e19d9e27b7e7563bb193c2e2@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
-DTSTART;VALUE=DATE:20260619
-DTEND;VALUE=DATE:20260620
-SUMMARY:Foo Fighters – Paris La Défense Arena\, Paris
-LOCATION:Paris La Défense Arena\, Paris\, France
-DESCRIPTION:Foo Fighters tour date. Source: https://foofighters.com/tour-
- dates/. reference: https://en.wikipedia.org/wiki/Take_Cover_Tour
-URL:https://foofighters.com/tour-dates/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:045e88ecdaec13050faa935f609dc18df6a0bd25@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
-DTSTART;VALUE=DATE:20260619
-DTEND;VALUE=DATE:20260620
-SUMMARY:Jack White – La Prima Estate\, Camaiore
-LOCATION:La Prima Estate\, Camaiore\, Italy
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. Festival | reference: https://pitchfork.com/news/jack-white-exten
- ds-2026-tour/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white
- -events\; https://www.setlist.fm/setlists/jack-white-33d69845.html
-URL:https://jackwhiteiii.com/tour-dates/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:7e522b1531c14fc65f84530d1332ebafd3e68bd0@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:025d881ac17b6828d661293b519800c96cc15525@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260622
 SUMMARY:Def Leppard – Graspop Metal Meeting\, Dessel
-LOCATION:Graspop Metal Meeting\, Dessel\, Belgium
-DESCRIPTION:Def Leppard tour date. Source: https://defleppard.com/tour/. 
- Festival | reference: https://www.deflepparduk.com/2026tour.html
+LOCATION:Graspop Metal Meeting\, Dessel\, Dessel\, Belgium
+DESCRIPTION:Def Leppard tour/event date. Source: https://defleppard.com/t
+ our/. Seed/manual from initial calendar file. Source type: manual
 URL:https://defleppard.com/tour/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:b67bde2dd584cb3003def1ff21068b64552a6db8@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:b68f283b5df0a803d9ae60e4e2164139c01ca2be@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260622
 SUMMARY:Foo Fighters – Megaland / Pinkpop Festival\, Landgraaf
-LOCATION:Megaland / Pinkpop Festival\, Landgraaf\, Netherlands
-DESCRIPTION:Foo Fighters tour date. Source: https://foofighters.com/tour-
- dates/. Festival | reference: https://en.wikipedia.org/wiki/Take_Cover_T
- our
+LOCATION:Megaland / Pinkpop Festival\, Landgraaf\, Landgraaf\, Netherland
+ s
+DESCRIPTION:Foo Fighters tour/event date. Source: https://foofighters.com
+ /tour-dates/. Seed/manual from initial calendar file. Source type: manua
+ l
 URL:https://foofighters.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:238a71302dcceebc0515c05a65ee238b9061483f@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:893614a7254727d24212868ba5f612b5ef2e59d3@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260622
 SUMMARY:Jack White – Arena Alpe Adria\, Lignano Sabbiadoro
-LOCATION:Arena Alpe Adria\, Lignano Sabbiadoro\, Italy
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. reference: https://pitchfork.com/news/jack-white-extends-2026-tou
- r/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white-events\; h
- ttps://www.setlist.fm/setlists/jack-white-33d69845.html
+LOCATION:Arena Alpe Adria\, Lignano Sabbiadoro\, Lignano Sabbiadoro\, Ita
+ ly
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:3b2d6c8d6c2a5de21e691a6f128f0352ce688c34@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:d068fb4349d9f6e038d70e9ff12df9d91714af8e@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20260623
 SUMMARY:Jack White – INmusic Festival\, Zagreb
-LOCATION:INmusic Festival\, Zagreb\, Croatia
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. Festival | reference: https://pitchfork.com/news/jack-white-exten
- ds-2026-tour/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white
- -events\; https://www.setlist.fm/setlists/jack-white-33d69845.html
+LOCATION:INmusic Festival\, Zagreb\, Zagreb\, Croatia
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:2940bc6eff52e51b3acbd2396da5577ef6a32a08@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:76bb9b38cc0e1ca5587522511aac5f64155d91da@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260624
 SUMMARY:Def Leppard – Westfalenhallen\, Dortmund
-LOCATION:Westfalenhallen\, Dortmund\, Germany
-DESCRIPTION:Def Leppard tour date. Source: https://defleppard.com/tour/. 
- reference: https://www.deflepparduk.com/2026tour.html
+LOCATION:Westfalenhallen\, Dortmund\, Dortmund\, Germany
+DESCRIPTION:Def Leppard tour/event date. Source: https://defleppard.com/t
+ our/. Seed/manual from initial calendar file. Source type: manual
 URL:https://defleppard.com/tour/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:b5c1aecfca19b800a8b2b05499d2489d55e87006@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:698b3d9f0e1189c35323915fa554828f2990d3b4@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260626
 SUMMARY:Foo Fighters – Anfield\, Liverpool
-LOCATION:Anfield\, Liverpool\, England
-DESCRIPTION:Foo Fighters tour date. Source: https://foofighters.com/tour-
- dates/. reference: https://en.wikipedia.org/wiki/Take_Cover_Tour
+LOCATION:Anfield\, Liverpool\, Liverpool\, England
+DESCRIPTION:Foo Fighters tour/event date. Source: https://foofighters.com
+ /tour-dates/. Seed/manual from initial calendar file. Source type: manua
+ l
 URL:https://foofighters.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:e90e02fede2c6b9ae65e7d6e04d51a48eadc17c8@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:a2dfbb1d3ebbc0a3c022c80e18695d65f5bac44d@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
 SUMMARY:Def Leppard – Belsonic @ Ormeau Park\, Belfast
-LOCATION:Belsonic @ Ormeau Park\, Belfast\, Northern Ireland
-DESCRIPTION:Def Leppard tour date. Source: https://defleppard.com/tour/. 
- reference: https://www.deflepparduk.com/2026tour.html
+LOCATION:Belsonic @ Ormeau Park\, Belfast\, Belfast\, Northern Ireland
+DESCRIPTION:Def Leppard tour/event date. Source: https://defleppard.com/t
+ our/. Seed/manual from initial calendar file. Source type: manual
 URL:https://defleppard.com/tour/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:1b54aa7c4293f0e5b1df30735092cdd41382042d@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:47210537b355e04ed7d68fc95b872aa0ed89a297@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260628
 SUMMARY:Foo Fighters – Anfield\, Liverpool
-LOCATION:Anfield\, Liverpool\, England
-DESCRIPTION:Foo Fighters tour date. Source: https://foofighters.com/tour-
- dates/. reference: https://en.wikipedia.org/wiki/Take_Cover_Tour
+LOCATION:Anfield\, Liverpool\, Liverpool\, England
+DESCRIPTION:Foo Fighters tour/event date. Source: https://foofighters.com
+ /tour-dates/. Seed/manual from initial calendar file. Source type: manua
+ l
 URL:https://foofighters.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:533ccfb92dc75b09da885e0f20541ba473e17d7a@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:b5e3445ce3e6754734cea07e6ab1c2e9df41c9c0@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260628
 DTEND;VALUE=DATE:20260629
 SUMMARY:Def Leppard – OVO Hydro\, Glasgow
-LOCATION:OVO Hydro\, Glasgow\, Scotland
-DESCRIPTION:Def Leppard tour date. Source: https://defleppard.com/tour/. 
- reference: https://www.deflepparduk.com/2026tour.html
+LOCATION:OVO Hydro\, Glasgow\, Glasgow\, Scotland
+DESCRIPTION:Def Leppard tour/event date. Source: https://defleppard.com/t
+ our/. Seed/manual from initial calendar file. Source type: manual
 URL:https://defleppard.com/tour/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:5a56fc9af6417dd5c702fe59b4ee98023de3b9e0@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:9d68773eab0af60cb16e794636e2d1f2f4d29499@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260630
 DTEND;VALUE=DATE:20260701
 SUMMARY:Def Leppard – Utilita Arena\, Sheffield
-LOCATION:Utilita Arena\, Sheffield\, England
-DESCRIPTION:Def Leppard tour date. Source: https://defleppard.com/tour/. 
- reference: https://www.deflepparduk.com/2026tour.html
+LOCATION:Utilita Arena\, Sheffield\, Sheffield\, England
+DESCRIPTION:Def Leppard tour/event date. Source: https://defleppard.com/t
+ our/. Seed/manual from initial calendar file. Source type: manual
 URL:https://defleppard.com/tour/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:110dcfff46cdee0816ed186880d27c59f02d8277@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:f82d719104a35d4f9fa1f3fd03068a8cf37cdf79@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260702
 SUMMARY:Foo Fighters – Olympiastadion\, Berlin
-LOCATION:Olympiastadion\, Berlin\, Germany
-DESCRIPTION:Foo Fighters tour date. Source: https://foofighters.com/tour-
- dates/. reference: https://en.wikipedia.org/wiki/Take_Cover_Tour
+LOCATION:Olympiastadion\, Berlin\, Berlin\, Germany
+DESCRIPTION:Foo Fighters tour/event date. Source: https://foofighters.com
+ /tour-dates/. Seed/manual from initial calendar file. Source type: manua
+ l
 URL:https://foofighters.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:7c2065bc587df3f510f0e68c530f484829876105@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:101269e1cbd479d6c4322fb7e8e793c866b52c05@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260702
 DTEND;VALUE=DATE:20260703
 SUMMARY:Def Leppard – The O2 Arena\, London
-LOCATION:The O2 Arena\, London\, England
-DESCRIPTION:Def Leppard tour date. Source: https://defleppard.com/tour/. 
- reference: https://www.deflepparduk.com/2026tour.html
+LOCATION:The O2 Arena\, London\, London\, England
+DESCRIPTION:Def Leppard tour/event date. Source: https://defleppard.com/t
+ our/. Seed/manual from initial calendar file. Source type: manual
 URL:https://defleppard.com/tour/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:fffcb440f6857c2d6551e16af6a506eb0c0a8265@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:3a593583de52df0ccfe30a14ca5819861c03bbab@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260704
 SUMMARY:Foo Fighters – Ernst Happel Stadion\, Vienna
-LOCATION:Ernst Happel Stadion\, Vienna\, Austria
-DESCRIPTION:Foo Fighters tour date. Source: https://foofighters.com/tour-
- dates/. reference: https://en.wikipedia.org/wiki/Take_Cover_Tour
+LOCATION:Ernst Happel Stadion\, Vienna\, Vienna\, Austria
+DESCRIPTION:Foo Fighters tour/event date. Source: https://foofighters.com
+ /tour-dates/. Seed/manual from initial calendar file. Source type: manua
+ l
 URL:https://foofighters.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:65aebf954cc70f8faea3511fad00c93fb982717a@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:7b7a7ae81ceaed6adb4c2f6396c1ffea2c548377@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260705
 SUMMARY:Def Leppard – bp pulse LIVE\, Birmingham
-LOCATION:bp pulse LIVE\, Birmingham\, England
-DESCRIPTION:Def Leppard tour date. Source: https://defleppard.com/tour/. 
- reference: https://www.deflepparduk.com/2026tour.html
+LOCATION:bp pulse LIVE\, Birmingham\, Birmingham\, England
+DESCRIPTION:Def Leppard tour/event date. Source: https://defleppard.com/t
+ our/. Seed/manual from initial calendar file. Source type: manual
 URL:https://defleppard.com/tour/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:5a76a531bf20e452138889334dbbb90ae45f55f2@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:2137400031f8d1c2f6aa2b4b06664e541d3fe7dc@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260705
 DTEND;VALUE=DATE:20260706
 SUMMARY:Foo Fighters – Ippodromo La Maura / I-Days Milano\, Milan
-LOCATION:Ippodromo La Maura / I-Days Milano\, Milan\, Italy
-DESCRIPTION:Foo Fighters tour date. Source: https://foofighters.com/tour-
- dates/. Festival | reference: https://en.wikipedia.org/wiki/Take_Cover_T
- our
+LOCATION:Ippodromo La Maura / I-Days Milano\, Milan\, Milan\, Italy
+DESCRIPTION:Foo Fighters tour/event date. Source: https://foofighters.com
+ /tour-dates/. Seed/manual from initial calendar file. Source type: manua
+ l
 URL:https://foofighters.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:e82f73ba817e4099a17d148b1bb0c44cc7ffe2a0@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:915009eb01dc7d5505e8d09fd5f36a58c481f6d6@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260706
 DTEND;VALUE=DATE:20260707
 SUMMARY:Def Leppard – Co-op Live\, Manchester
-LOCATION:Co-op Live\, Manchester\, England
-DESCRIPTION:Def Leppard tour date. Source: https://defleppard.com/tour/. 
- reference: https://www.deflepparduk.com/2026tour.html
+LOCATION:Co-op Live\, Manchester\, Manchester\, England
+DESCRIPTION:Def Leppard tour/event date. Source: https://defleppard.com/t
+ our/. Seed/manual from initial calendar file. Source type: manual
 URL:https://defleppard.com/tour/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:105cdaec7c286230dc9e8095433c3b4184a52315@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:d55680c31c732949cab105bd2c41ea147f71bfab@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260708
 DTEND;VALUE=DATE:20260709
 SUMMARY:Def Leppard – Accor Arena\, Paris
-LOCATION:Accor Arena\, Paris\, France
-DESCRIPTION:Def Leppard tour date. Source: https://defleppard.com/tour/. 
- reference: https://www.deflepparduk.com/2026tour.html
+LOCATION:Accor Arena\, Paris\, Paris\, France
+DESCRIPTION:Def Leppard tour/event date. Source: https://defleppard.com/t
+ our/. Seed/manual from initial calendar file. Source type: manual
 URL:https://defleppard.com/tour/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:2ba18df9635f5db6ca2971bb108e8fed9364ff21@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:14f9303787e7c17c2ba283d2bfbbbe3e84475f09@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260708
 DTEND;VALUE=DATE:20260709
 SUMMARY:Foo Fighters – Valdebebas / Mad Cool\, Madrid
-LOCATION:Valdebebas / Mad Cool\, Madrid\, Spain
-DESCRIPTION:Foo Fighters tour date. Source: https://foofighters.com/tour-
- dates/. Festival | reference: https://en.wikipedia.org/wiki/Take_Cover_T
- our
+LOCATION:Valdebebas / Mad Cool\, Madrid\, Madrid\, Spain
+DESCRIPTION:Foo Fighters tour/event date. Source: https://foofighters.com
+ /tour-dates/. Seed/manual from initial calendar file. Source type: manua
+ l
 URL:https://foofighters.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:e0d38ae5fe161c812b5a27e9816935190b07e433@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:ac6d41c8e907d57e41d4473d72be7b99ba9d5917@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
 SUMMARY:Foo Fighters – Passeio Marítimo de Algés / NOS Alive\, Lisbon
-LOCATION:Passeio Marítimo de Algés / NOS Alive\, Lisbon\, Portugal
-DESCRIPTION:Foo Fighters tour date. Source: https://foofighters.com/tour-
- dates/. Festival | reference: https://en.wikipedia.org/wiki/Take_Cover_T
- our
+LOCATION:Passeio Marítimo de Algés / NOS Alive\, Lisbon\, Lisbon\, Portug
+ al
+DESCRIPTION:Foo Fighters tour/event date. Source: https://foofighters.com
+ /tour-dates/. Seed/manual from initial calendar file. Source type: manua
+ l
 URL:https://foofighters.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:d975f9543ebbbc02bd39e5e744cfe11ddbcc0e62@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:bc773374817e867b2d3ec17728106f88b0f0bfea@tour-calendar
+DTSTAMP:20260620T054002Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:Jack White – The Anthem
+LOCATION:The Anthem\, Washington\, US
+DESCRIPTION:Jack White tour/event date. Source: https://www.livenation.co
+ m/event/164Zk3k-oZAu77u8/jack-white-live-2026. Automaattisesti luettu lä
+ hdesivulta. Title: JACK WHITE LIVE 2026. Source type: auto-jsonld
+URL:https://www.livenation.com/event/164Zk3k-oZAu77u8/jack-white-live-202
+ 6
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:012cb4f80264e415e80680e6ca2e3e7e0d6ebf64@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
 SUMMARY:Jack White – The Anthem\, Washington\, DC
-LOCATION:The Anthem\, Washington\, DC\, United States
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. reference: https://pitchfork.com/news/jack-white-extends-2026-tou
- r/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white-events\; h
- ttps://www.setlist.fm/setlists/jack-white-33d69845.html
+LOCATION:The Anthem\, Washington\, DC\, Washington\, DC\, United States
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:6d80d05acd863cc47754b3633bdeb019fb903dec@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:75eb7829a4bbe592f7a8ade60030b99b1137703c@tour-calendar
+DTSTAMP:20260620T054002Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:Jack White – Brooklyn Paramount
+LOCATION:Brooklyn Paramount\, Brooklyn\, US
+DESCRIPTION:Jack White tour/event date. Source: https://www.livenation.co
+ m/event/k7v17_Fr4G7WbJl/jack-white-live-2026. Automaattisesti luettu läh
+ desivulta. Title: JACK WHITE LIVE 2026. Source type: auto-jsonld
+URL:https://www.livenation.com/event/k7v17_Fr4G7WbJl/jack-white-live-2026
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:148f7359f58389860aefe060515a5a0143bf3394@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260712
 SUMMARY:Jack White – Brooklyn Paramount\, Brooklyn\, NY
-LOCATION:Brooklyn Paramount\, Brooklyn\, NY\, United States
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. reference: https://pitchfork.com/news/jack-white-extends-2026-tou
- r/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white-events\; h
- ttps://www.setlist.fm/setlists/jack-white-33d69845.html
+LOCATION:Brooklyn Paramount\, Brooklyn\, NY\, Brooklyn\, NY\, United Stat
+ es
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:7cf7694fb9736c3b057f9643b1825e4ba1953d49@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:548629a5c68178db08527e414f2417b0546378e9@tour-calendar
+DTSTAMP:20260620T054002Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:Jack White – Brooklyn Paramount
+LOCATION:Brooklyn Paramount\, Brooklyn\, US
+DESCRIPTION:Jack White tour/event date. Source: https://www.livenation.co
+ m/event/k7v17_Fr4G7HbJK/jack-white-live-2026. Automaattisesti luettu läh
+ desivulta. Title: JACK WHITE LIVE 2026. Source type: auto-jsonld
+URL:https://www.livenation.com/event/k7v17_Fr4G7HbJK/jack-white-live-2026
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2a1755b6a2021e397e17959fad9dd6188e2122c4@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260712
 DTEND;VALUE=DATE:20260713
 SUMMARY:Jack White – Brooklyn Paramount\, Brooklyn\, NY
-LOCATION:Brooklyn Paramount\, Brooklyn\, NY\, United States
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. reference: https://pitchfork.com/news/jack-white-extends-2026-tou
- r/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white-events\; h
- ttps://www.setlist.fm/setlists/jack-white-33d69845.html
+LOCATION:Brooklyn Paramount\, Brooklyn\, NY\, Brooklyn\, NY\, United Stat
+ es
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:2e1830ab7edcc331cc7df80d1fa2b95246d6a928@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:13b907f62786bb2b54298c75e82408e7c0135659@tour-calendar
+DTSTAMP:20260620T054002Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260715
+SUMMARY:Jack White – RBC Amphitheatre
+LOCATION:RBC Amphitheatre\, Toronto\, CA
+DESCRIPTION:Jack White tour/event date. Source: https://www.livenation.co
+ m/event/1A8Zk3FGkeDScl0/jack-white-live-2026. Automaattisesti luettu läh
+ desivulta. Title: JACK WHITE LIVE 2026. Source type: auto-jsonld
+URL:https://www.livenation.com/event/1A8Zk3FGkeDScl0/jack-white-live-2026
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:beeae53ee35fe219e03b8c3c660dbf3544e0f7dc@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260714
 DTEND;VALUE=DATE:20260715
 SUMMARY:Jack White – RBC Amphitheatre\, Toronto
-LOCATION:RBC Amphitheatre\, Toronto\, Canada
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. reference: https://pitchfork.com/news/jack-white-extends-2026-tou
- r/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white-events\; h
- ttps://www.setlist.fm/setlists/jack-white-33d69845.html
+LOCATION:RBC Amphitheatre\, Toronto\, Toronto\, Canada
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:390814ee645436416cb3967ac144b7338230148d@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:dfa7b707c529dcece8b57b56caa30f5c9d3f468f@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20260716
 SUMMARY:Jack White – Champlain Valley Exposition\, Essex Junction\, VT
-LOCATION:Champlain Valley Exposition\, Essex Junction\, VT\, United State
- s
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. reference: https://pitchfork.com/news/jack-white-extends-2026-tou
- r/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white-events\; h
- ttps://www.setlist.fm/setlists/jack-white-33d69845.html
+LOCATION:Champlain Valley Exposition\, Essex Junction\, VT\, Essex Juncti
+ on\, VT\, United States
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:9c823710d33eaf22822c92caf22c111a5223c7f8@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:1478edfde855baa7014a9eff2bfe8d446c8227ae@tour-calendar
+DTSTAMP:20260620T054002Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:Jack White – MGM Music Hall at Fenway
+LOCATION:MGM Music Hall at Fenway\, Boston\, US
+DESCRIPTION:Jack White tour/event date. Source: https://www.livenation.co
+ m/event/vv1AvZk3kGkePDQjO/jack-white-live-2026. Automaattisesti luettu l
+ ähdesivulta. Title: JACK WHITE LIVE 2026. Source type: auto-jsonld
+URL:https://www.livenation.com/event/vv1AvZk3kGkePDQjO/jack-white-live-20
+ 26
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d767a85635a6499ceef559c103d2b9f1ff10bb64@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
 SUMMARY:Jack White – MGM Music Hall at Fenway\, Boston\, MA
-LOCATION:MGM Music Hall at Fenway\, Boston\, MA\, United States
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. reference: https://pitchfork.com/news/jack-white-extends-2026-tou
- r/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white-events\; h
- ttps://www.setlist.fm/setlists/jack-white-33d69845.html
+LOCATION:MGM Music Hall at Fenway\, Boston\, MA\, Boston\, MA\, United St
+ ates
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ccad0c5aef989182091a88f8bbf46b1414d104e6@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:4a93e25981ceca52ad479e244468b7a23a4d9cc2@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20260719
 SUMMARY:Jack White – College Street Music Hall\, New Haven\, CT
-LOCATION:College Street Music Hall\, New Haven\, CT\, United States
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. added from setlist.fm listing | reference: https://pitchfork.com/
- news/jack-white-extends-2026-tour/\; https://www.livenation.com/artist/K
- 8vZ917us6V/jack-white-events\; https://www.setlist.fm/setlists/jack-whit
- e-33d69845.html
+LOCATION:College Street Music Hall\, New Haven\, CT\, New Haven\, CT\, Un
+ ited States
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:e116a446f7bf89b51a08b2c65535c1b6162c2d26@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:78a8aa50347f3396992e477c1154d58cf8c26dc2@tour-calendar
+DTSTAMP:20260620T054002Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:Jack White – The Capitol Theatre
+LOCATION:The Capitol Theatre\, Port Chester\, US
+DESCRIPTION:Jack White tour/event date. Source: https://www.livenation.co
+ m/event/G5vVZ_a305SR3/jack-white-live-2026. Automaattisesti luettu lähde
+ sivulta. Title: JACK WHITE LIVE 2026. Source type: auto-jsonld
+URL:https://www.livenation.com/event/G5vVZ_a305SR3/jack-white-live-2026
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dc1f0b17d27e6965b8dac93571845bf1604b807e@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260719
 DTEND;VALUE=DATE:20260720
 SUMMARY:Jack White – The Capitol Theatre\, Port Chester\, NY
-LOCATION:The Capitol Theatre\, Port Chester\, NY\, United States
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. added from Live Nation/setlist.fm listing | reference: https://pi
- tchfork.com/news/jack-white-extends-2026-tour/\; https://www.livenation.
- com/artist/K8vZ917us6V/jack-white-events\; https://www.setlist.fm/setlis
- ts/jack-white-33d69845.html
+LOCATION:The Capitol Theatre\, Port Chester\, NY\, Port Chester\, NY\, Un
+ ited States
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:9336c4a0f152f753982f4b29041577c8d4a2316c@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:ee10645d9cba77143eabb38020b4ca600b16df71@tour-calendar
+DTSTAMP:20260620T054002Z
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260722
+SUMMARY:Jack White – Everwise Amphitheater at White River State Park
+LOCATION:Everwise Amphitheater at White River State Park\, Indianapolis\,
+  US
+DESCRIPTION:Jack White tour/event date. Source: https://www.livenation.co
+ m/event/vv1AAZk36GkdL3hE3/jack-white-live-2026. Automaattisesti luettu l
+ ähdesivulta. Title: JACK WHITE LIVE 2026. Source type: auto-jsonld
+URL:https://www.livenation.com/event/vv1AAZk36GkdL3hE3/jack-white-live-20
+ 26
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f70c22c9fb2f5d992253f1ec4a6162a3c890c74a@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
 SUMMARY:Jack White – Everwise Amphitheater at White River State Park\, In
  dianapolis\, IN
 LOCATION:Everwise Amphitheater at White River State Park\, Indianapolis\,
-  IN\, United States
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. reference: https://pitchfork.com/news/jack-white-extends-2026-tou
- r/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white-events\; h
- ttps://www.setlist.fm/setlists/jack-white-33d69845.html
+  IN\, Indianapolis\, IN\, United States
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:9cd9d2cc05dcdd9c47fe0bf14b00806a54879eb1@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:75027babc3848c62ec14ccfd67d1e16ed3cec009@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
 SUMMARY:Jack White – Radius\, Chicago\, IL
-LOCATION:Radius\, Chicago\, IL\, United States
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. reference: https://pitchfork.com/news/jack-white-extends-2026-tou
- r/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white-events\; h
- ttps://www.setlist.fm/setlists/jack-white-33d69845.html
+LOCATION:Radius\, Chicago\, IL\, Chicago\, IL\, United States
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:fde5199a1fc9767e8e2fa7d28a07819e0f38b1f6@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:f136e774ea565429eb0f8d036d54ef7350b0fa1c@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260724
 DTEND;VALUE=DATE:20260725
 SUMMARY:Jack White – The Salt Shed (Outdoors)\, Chicago\, IL
-LOCATION:The Salt Shed (Outdoors)\, Chicago\, IL\, United States
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. reference: https://pitchfork.com/news/jack-white-extends-2026-tou
- r/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white-events\; h
- ttps://www.setlist.fm/setlists/jack-white-33d69845.html
+LOCATION:The Salt Shed (Outdoors)\, Chicago\, IL\, Chicago\, IL\, United 
+ States
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:299e4fc81d2b12f27b111041cbd3be0317257f29@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:858bee0641768d9319933127467206903a46295a@tour-calendar
+DTSTAMP:20260620T054002Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:Jack White – The Salt Shed Outdoors (Fairgrounds)
+LOCATION:The Salt Shed Outdoors (Fairgrounds)\, Chicago\, US
+DESCRIPTION:Jack White tour/event date. Source: https://www.livenation.co
+ m/event/vv1A7Zk3FGketakcX/jack-white-live-2026. Automaattisesti luettu l
+ ähdesivulta. Title: JACK WHITE LIVE 2026. Source type: auto-jsonld
+URL:https://www.livenation.com/event/vv1A7Zk3FGketakcX/jack-white-live-20
+ 26
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:950813e088e5602136788342b37b797595913392@tour-calendar
+DTSTAMP:20260620T054002Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:Jack White – Pine Knob Music Theatre
+LOCATION:Pine Knob Music Theatre\, Clarkston\, US
+DESCRIPTION:Jack White tour/event date. Source: https://www.livenation.co
+ m/event/vv1keZv0xaGAC7g1K/jack-white-live-2026. Automaattisesti luettu l
+ ähdesivulta. Title: JACK WHITE LIVE 2026. Source type: auto-jsonld
+URL:https://www.livenation.com/event/vv1keZv0xaGAC7g1K/jack-white-live-20
+ 26
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:48afca11c0a027e935ce51fdb13b5c93e1f657f3@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260726
 SUMMARY:Jack White – Pine Knob Music Theatre\, Clarkston\, MI
-LOCATION:Pine Knob Music Theatre\, Clarkston\, MI\, United States
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. reference: https://pitchfork.com/news/jack-white-extends-2026-tou
- r/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white-events\; h
- ttps://www.setlist.fm/setlists/jack-white-33d69845.html
+LOCATION:Pine Knob Music Theatre\, Clarkston\, MI\, Clarkston\, MI\, Unit
+ ed States
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:76476999be9cfe598481f0a9416e9f015f8f738a@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:6eb13984fc856b6facda933aa84e4b23a9f04f11@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260731
 SUMMARY:Def Leppard – Wacken Open Air 2026\, Wacken
-LOCATION:Wacken Open Air 2026\, Wacken\, Germany
-DESCRIPTION:Def Leppard tour date. Source: https://defleppard.com/tour/. 
- Festival | reference: https://www.deflepparduk.com/2026tour.html
+LOCATION:Wacken Open Air 2026\, Wacken\, Wacken\, Germany
+DESCRIPTION:Def Leppard tour/event date. Source: https://defleppard.com/t
+ our/. Seed/manual from initial calendar file. Source type: manual
 URL:https://defleppard.com/tour/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:d8d3bb6f9d59c735a2b4b31858c91c5a9cb1514d@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:9595cec726720028c1e3693a497e220a6a1258a1@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260804
 DTEND;VALUE=DATE:20260805
 SUMMARY:Foo Fighters – Rogers Stadium\, Toronto
-LOCATION:Rogers Stadium\, Toronto\, Canada
-DESCRIPTION:Foo Fighters tour date. Source: https://foofighters.com/tour-
- dates/. reference: https://en.wikipedia.org/wiki/Take_Cover_Tour
+LOCATION:Rogers Stadium\, Toronto\, Toronto\, Canada
+DESCRIPTION:Foo Fighters tour/event date. Source: https://foofighters.com
+ /tour-dates/. Seed/manual from initial calendar file. Source type: manua
+ l
 URL:https://foofighters.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:76a2054e831c5d1a7e5d8f6fb9619c8ff27e8db8@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:5eddec3a8ba4bf5730d0c277ce488b1c9f2f221a@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260806
 DTEND;VALUE=DATE:20260807
 SUMMARY:Foo Fighters – Ford Field\, Detroit
-LOCATION:Ford Field\, Detroit\, United States
-DESCRIPTION:Foo Fighters tour date. Source: https://foofighters.com/tour-
- dates/. reference: https://en.wikipedia.org/wiki/Take_Cover_Tour
+LOCATION:Ford Field\, Detroit\, Detroit\, United States
+DESCRIPTION:Foo Fighters tour/event date. Source: https://foofighters.com
+ /tour-dates/. Seed/manual from initial calendar file. Source type: manua
+ l
 URL:https://foofighters.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:5d8bedb9523ea7cb6e214e3e823ae88c495e18f6@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:cde630bf148d9c2f4398f3b7ee46c289180b23d5@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260809
 SUMMARY:Foo Fighters – Soldier Field\, Chicago
-LOCATION:Soldier Field\, Chicago\, United States
-DESCRIPTION:Foo Fighters tour date. Source: https://foofighters.com/tour-
- dates/. reference: https://en.wikipedia.org/wiki/Take_Cover_Tour
+LOCATION:Soldier Field\, Chicago\, Chicago\, United States
+DESCRIPTION:Foo Fighters tour/event date. Source: https://foofighters.com
+ /tour-dates/. Seed/manual from initial calendar file. Source type: manua
+ l
 URL:https://foofighters.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:c906b0112e8fe1e911be7f8882d1698ed4f45383@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:8f5d6e009aea57200fdf7464705f5c60efe5ae57@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20260811
 SUMMARY:Foo Fighters – Huntington Bank Field\, Cleveland
-LOCATION:Huntington Bank Field\, Cleveland\, United States
-DESCRIPTION:Foo Fighters tour date. Source: https://foofighters.com/tour-
- dates/. reference: https://en.wikipedia.org/wiki/Take_Cover_Tour
+LOCATION:Huntington Bank Field\, Cleveland\, Cleveland\, United States
+DESCRIPTION:Foo Fighters tour/event date. Source: https://foofighters.com
+ /tour-dates/. Seed/manual from initial calendar file. Source type: manua
+ l
 URL:https://foofighters.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:48ad47d58eb302165ef78efd60985ca42f90dd70@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:daf5633bb6811d693d1e9b6780fe5a4fbc8cc820@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
 SUMMARY:Foo Fighters – Lincoln Financial Field\, Philadelphia
-LOCATION:Lincoln Financial Field\, Philadelphia\, United States
-DESCRIPTION:Foo Fighters tour date. Source: https://foofighters.com/tour-
- dates/. reference: https://en.wikipedia.org/wiki/Take_Cover_Tour
+LOCATION:Lincoln Financial Field\, Philadelphia\, Philadelphia\, United S
+ tates
+DESCRIPTION:Foo Fighters tour/event date. Source: https://foofighters.com
+ /tour-dates/. Seed/manual from initial calendar file. Source type: manua
+ l
 URL:https://foofighters.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:282f09b8daac0bf88e578ba9fafe98bbc8230843@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:3fa36d249a3e2385543e67c9fb1731fe3dcef716@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
 SUMMARY:Foo Fighters – Nissan Stadium\, Nashville
-LOCATION:Nissan Stadium\, Nashville\, United States
-DESCRIPTION:Foo Fighters tour date. Source: https://foofighters.com/tour-
- dates/. reference: https://en.wikipedia.org/wiki/Take_Cover_Tour
+LOCATION:Nissan Stadium\, Nashville\, Nashville\, United States
+DESCRIPTION:Foo Fighters tour/event date. Source: https://foofighters.com
+ /tour-dates/. Seed/manual from initial calendar file. Source type: manua
+ l
 URL:https://foofighters.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:67ae4b29075e098cb5697c2bf4b8341353936376@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:12d7078594865eca1ea214618bc03578b3a79850@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
 SUMMARY:Foo Fighters – Nationals Park\, Washington\, DC
-LOCATION:Nationals Park\, Washington\, DC\, United States
-DESCRIPTION:Foo Fighters tour date. Source: https://foofighters.com/tour-
- dates/. reference: https://en.wikipedia.org/wiki/Take_Cover_Tour
+LOCATION:Nationals Park\, Washington\, DC\, Washington\, DC\, United Stat
+ es
+DESCRIPTION:Foo Fighters tour/event date. Source: https://foofighters.com
+ /tour-dates/. Seed/manual from initial calendar file. Source type: manua
+ l
 URL:https://foofighters.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:380a408b3ff3846624d6fca99c30f5ecfd1a3b35@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:fd6de520b918e5cb95b25d2542ffffce113bda88@tour-calendar
+DTSTAMP:20260620T054002Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+SUMMARY:Jack White – YES24 Live Hall
+LOCATION:YES24 Live Hall\, Seoul\, South Korea
+DESCRIPTION:Jack White tour/event date. Source: https://www.livenation.co
+ m/event/intl_1672337/jack-white-live-2026-in-seoul. Automaattisesti luet
+ tu lähdesivulta. Title: JACK WHITE LIVE 2026 in Seoul. Source type: auto
+ -jsonld
+URL:https://www.livenation.com/event/intl_1672337/jack-white-live-2026-in
+ -seoul
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:237284a3cf76ca55f54e52671698e412462caa7f@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
 SUMMARY:Jack White – YES24 Live Hall\, Seoul
-LOCATION:YES24 Live Hall\, Seoul\, South Korea
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. added from Live Nation/setlist.fm listing | reference: https://pi
- tchfork.com/news/jack-white-extends-2026-tour/\; https://www.livenation.
- com/artist/K8vZ917us6V/jack-white-events\; https://www.setlist.fm/setlis
- ts/jack-white-33d69845.html
+LOCATION:YES24 Live Hall\, Seoul\, Seoul\, South Korea
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:4ec961848eb756aeddae85de293e8e70976411f6@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:afa290e30622ec077fcaf61e1d60c2f9013dc9f8@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
 SUMMARY:Jack White – RED ROCK\, Shanghai
-LOCATION:RED ROCK\, Shanghai\, China
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. added from setlist.fm listing | reference: https://pitchfork.com/
- news/jack-white-extends-2026-tour/\; https://www.livenation.com/artist/K
- 8vZ917us6V/jack-white-events\; https://www.setlist.fm/setlists/jack-whit
- e-33d69845.html
+LOCATION:RED ROCK\, Shanghai\, Shanghai\, China
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:a9533705f1a91cb46415d2a02877cea129118f36@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:824a418b4205ad39375b197da974a09dd565bed1@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
 SUMMARY:Jack White – Park Live Almaty\, Almaty
-LOCATION:Park Live Almaty\, Almaty\, Kazakhstan
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. reference: https://pitchfork.com/news/jack-white-extends-2026-tou
- r/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white-events\; h
- ttps://www.setlist.fm/setlists/jack-white-33d69845.html
+LOCATION:Park Live Almaty\, Almaty\, Almaty\, Kazakhstan
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:89e615f1354f6b1b4c336ad28ba6d1fbf25c9095@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:ff8440f8780a8e3b0c460aeffc893cab98d84bcd@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
 SUMMARY:Jack White – Babylon Soundgarden\, Istanbul
-LOCATION:Babylon Soundgarden\, Istanbul\, Turkey
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. reference: https://pitchfork.com/news/jack-white-extends-2026-tou
- r/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white-events\; h
- ttps://www.setlist.fm/setlists/jack-white-33d69845.html
+LOCATION:Babylon Soundgarden\, Istanbul\, Istanbul\, Turkey
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:1d5693f55718e85ca8afad1eaa39cf71db311382@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:3a28dea4bf76b28ad924f8e3964565195849f5b0@tour-calendar
+DTSTAMP:20260620T054002Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:Jack White – Eventim Apollo
+LOCATION:Eventim Apollo\, London\, United Kingdom
+DESCRIPTION:Jack White tour/event date. Source: https://www.livenation.co
+ m/event/intl_1665795/jack-white-live-2026. Automaattisesti luettu lähdes
+ ivulta. Title: Jack White: LIVE 2026. Source type: auto-jsonld
+URL:https://www.livenation.com/event/intl_1665795/jack-white-live-2026
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:706dd94a3afd9313c9ac5c6b642f195bee7dd6f0@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
 SUMMARY:Jack White – Eventim Apollo\, London
-LOCATION:Eventim Apollo\, London\, England
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. reference: https://pitchfork.com/news/jack-white-extends-2026-tou
- r/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white-events\; h
- ttps://www.setlist.fm/setlists/jack-white-33d69845.html
+LOCATION:Eventim Apollo\, London\, London\, England
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:113e56ed4eb21aa46e516d5487f1a83cdc24075a@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:25539157cea9ec2c7e532e49c91119c5314f8a2a@tour-calendar
+DTSTAMP:20260620T054002Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:Jack White – Eventim Apollo
+LOCATION:Eventim Apollo\, London\, United Kingdom
+DESCRIPTION:Jack White tour/event date. Source: https://www.livenation.co
+ m/event/intl_1665799/jack-white-live-2026. Automaattisesti luettu lähdes
+ ivulta. Title: Jack White: LIVE 2026. Source type: auto-jsonld
+URL:https://www.livenation.com/event/intl_1665799/jack-white-live-2026
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:08a57eef9d76741a78b1b07ed32a124d0aa2ac76@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
 SUMMARY:Jack White – Eventim Apollo\, London
-LOCATION:Eventim Apollo\, London\, England
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. reference: https://pitchfork.com/news/jack-white-extends-2026-tou
- r/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white-events\; h
- ttps://www.setlist.fm/setlists/jack-white-33d69845.html
+LOCATION:Eventim Apollo\, London\, London\, England
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:5e48232a6708e8bdc1fc475eac5e5969fa2ae186@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:036dca655610e35036057bfcd5e2c8f5753e1d40@tour-calendar
+DTSTAMP:20260620T054002Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:Jack White – The Prospect Building
+LOCATION:The Prospect Building\, Bristol\, United Kingdom
+DESCRIPTION:Jack White tour/event date. Source: https://www.livenation.co
+ m/event/intl_1665803/jack-white-live-2026. Automaattisesti luettu lähdes
+ ivulta. Title: Jack White: LIVE 2026. Source type: auto-jsonld
+URL:https://www.livenation.com/event/intl_1665803/jack-white-live-2026
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e6ac71b267d4e90706b4f79f34434f6bb7e6edaa@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
 SUMMARY:Jack White – The Prospect Building\, Bristol
-LOCATION:The Prospect Building\, Bristol\, England
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. reference: https://pitchfork.com/news/jack-white-extends-2026-tou
- r/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white-events\; h
- ttps://www.setlist.fm/setlists/jack-white-33d69845.html
+LOCATION:The Prospect Building\, Bristol\, Bristol\, England
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:3da0b8183c532bc9ad9d5940783dd6fc201c3813@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:d4238b9e88145eeac4bffa8de8ff3b84705e12c2@tour-calendar
+DTSTAMP:20260620T054002Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+SUMMARY:Jack White – O2 City Hall Newcastle
+LOCATION:O2 City Hall Newcastle\, Newcastle\, United Kingdom
+DESCRIPTION:Jack White tour/event date. Source: https://www.livenation.co
+ m/event/intl_1666175/jack-white-live-2026. Automaattisesti luettu lähdes
+ ivulta. Title: Jack White: LIVE 2026. Source type: auto-jsonld
+URL:https://www.livenation.com/event/intl_1666175/jack-white-live-2026
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2b854cce18574821e62333debaac211332bf23a4@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
 SUMMARY:Jack White – O2 City Hall Newcastle\, Newcastle
-LOCATION:O2 City Hall Newcastle\, Newcastle\, England
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. reference: https://pitchfork.com/news/jack-white-extends-2026-tou
- r/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white-events\; h
- ttps://www.setlist.fm/setlists/jack-white-33d69845.html
+LOCATION:O2 City Hall Newcastle\, Newcastle\, Newcastle\, England
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:5b19c8003c21186c3ada91b4ea029d267bfe4600@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:48190cde7a012fadd431f31d1a1d96b1108f81b8@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
 SUMMARY:Jack White – The Telegraph Building\, Belfast
-LOCATION:The Telegraph Building\, Belfast\, Northern Ireland
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. reference: https://pitchfork.com/news/jack-white-extends-2026-tou
- r/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white-events\; h
- ttps://www.setlist.fm/setlists/jack-white-33d69845.html
+LOCATION:The Telegraph Building\, Belfast\, Belfast\, Northern Ireland
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:86102333849e258636e2ca1d90b78b88e7e65408@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:e44a46dc7677bc3c721b07301d80a418fefbb9f8@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:Jack White – 3Olympia Theatre\, Dublin
-LOCATION:3Olympia Theatre\, Dublin\, Ireland
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. reference: https://pitchfork.com/news/jack-white-extends-2026-tou
- r/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white-events\; h
- ttps://www.setlist.fm/setlists/jack-white-33d69845.html
+LOCATION:3Olympia Theatre\, Dublin\, Dublin\, Ireland
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:44ee16fdbd068b9af1138296a386cc1df51aa6b7@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:03b479cda7589bd26f2bcfed834419f2b90c314e@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260903
 SUMMARY:Jack White – 3Olympia Theatre\, Dublin
-LOCATION:3Olympia Theatre\, Dublin\, Ireland
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. reference: https://pitchfork.com/news/jack-white-extends-2026-tou
- r/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white-events\; h
- ttps://www.setlist.fm/setlists/jack-white-33d69845.html
+LOCATION:3Olympia Theatre\, Dublin\, Dublin\, Ireland
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:88e05025d643c1485663be37641c7c6f76a86d78@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:13af2eeb26d44436aec8b9c399ba276963275e65@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Foo Fighters – Barra Olympic Park / Rock in Rio\, Rio de Janeiro
-LOCATION:Barra Olympic Park / Rock in Rio\, Rio de Janeiro\, Brazil
-DESCRIPTION:Foo Fighters tour date. Source: https://foofighters.com/tour-
- dates/. Festival | reference: https://en.wikipedia.org/wiki/Take_Cover_T
- our
+LOCATION:Barra Olympic Park / Rock in Rio\, Rio de Janeiro\, Rio de Janei
+ ro\, Brazil
+DESCRIPTION:Foo Fighters tour/event date. Source: https://foofighters.com
+ /tour-dates/. Seed/manual from initial calendar file. Source type: manua
+ l
 URL:https://foofighters.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:02e1a6ec502eed2b7fd1a7e3b88476f132322f7d@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:93e73869876f6f962e0d216c278f939409b763e4@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:Foo Fighters – Fargodome\, Fargo
-LOCATION:Fargodome\, Fargo\, United States
-DESCRIPTION:Foo Fighters tour date. Source: https://foofighters.com/tour-
- dates/. reference: https://en.wikipedia.org/wiki/Take_Cover_Tour
+LOCATION:Fargodome\, Fargo\, Fargo\, United States
+DESCRIPTION:Foo Fighters tour/event date. Source: https://foofighters.com
+ /tour-dates/. Seed/manual from initial calendar file. Source type: manua
+ l
 URL:https://foofighters.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:98b73c98e4966ec976e93ac60e8aecd80a38b120@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:a8c23e9f26f74c1660c26d1e047bd9ab815a122e@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Foo Fighters – Mosaic Stadium\, Regina
-LOCATION:Mosaic Stadium\, Regina\, Canada
-DESCRIPTION:Foo Fighters tour date. Source: https://foofighters.com/tour-
- dates/. reference: https://en.wikipedia.org/wiki/Take_Cover_Tour
+LOCATION:Mosaic Stadium\, Regina\, Regina\, Canada
+DESCRIPTION:Foo Fighters tour/event date. Source: https://foofighters.com
+ /tour-dates/. Seed/manual from initial calendar file. Source type: manua
+ l
 URL:https://foofighters.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:2210b72d7cf6ec7c642d73caf527c4cdced81cd1@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:a1c11a503774cd409fc75ca089d1158b7067f2c5@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Foo Fighters – Commonwealth Stadium\, Edmonton
-LOCATION:Commonwealth Stadium\, Edmonton\, Canada
-DESCRIPTION:Foo Fighters tour date. Source: https://foofighters.com/tour-
- dates/. reference: https://en.wikipedia.org/wiki/Take_Cover_Tour
+LOCATION:Commonwealth Stadium\, Edmonton\, Edmonton\, Canada
+DESCRIPTION:Foo Fighters tour/event date. Source: https://foofighters.com
+ /tour-dates/. Seed/manual from initial calendar file. Source type: manua
+ l
 URL:https://foofighters.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:7fe05ff44db89df5c71cf0f91bdb45a0b0e462c9@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:120003fe48a96f2e95d5d805cee12e5057525a53@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Jack White – MegaCorp Pavilion\, Newport\, KY
-LOCATION:MegaCorp Pavilion\, Newport\, KY\, United States
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. venue listed as Cincinnati area/Newport KY | reference: https://p
- itchfork.com/news/jack-white-extends-2026-tour/\; https://www.livenation
- .com/artist/K8vZ917us6V/jack-white-events\; https://www.setlist.fm/setli
- sts/jack-white-33d69845.html
+LOCATION:MegaCorp Pavilion\, Newport\, KY\, Newport\, KY\, United States
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:f55b51b1899029721be60eba29b4b70e0e8cfb16@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:1dfca63222000b93cf6a8da19d08372a6c218e54@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:Jack White – Borderland Festival\, East Aurora\, NY
-LOCATION:Borderland Festival\, East Aurora\, NY\, United States
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. Festival | reference: https://pitchfork.com/news/jack-white-exten
- ds-2026-tour/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white
- -events\; https://www.setlist.fm/setlists/jack-white-33d69845.html
+LOCATION:Borderland Festival\, East Aurora\, NY\, East Aurora\, NY\, Unit
+ ed States
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:fe51d93666fb3444139367e42f8487f075ad0975@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:98d340565b08a76958920ae8a8ecabe8d230697c@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:Foo Fighters – BC Place\, Vancouver
-LOCATION:BC Place\, Vancouver\, Canada
-DESCRIPTION:Foo Fighters tour date. Source: https://foofighters.com/tour-
- dates/. reference: https://en.wikipedia.org/wiki/Take_Cover_Tour
+LOCATION:BC Place\, Vancouver\, Vancouver\, Canada
+DESCRIPTION:Foo Fighters tour/event date. Source: https://foofighters.com
+ /tour-dates/. Seed/manual from initial calendar file. Source type: manua
+ l
 URL:https://foofighters.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:f5f3e6ed1c1fb011712a3b6f8cd5a3dc6092137d@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:67786614bf0150bf2303f95ae9775122efd5afbf@tour-calendar
+DTSTAMP:20260620T054002Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Jack White – Midtown Green
+LOCATION:Midtown Green\, Richmond\, US
+DESCRIPTION:Jack White tour/event date. Source: https://www.livenation.co
+ m/event/vvG17Z_1pJ7R-p/iron-blossom-festival. Automaattisesti luettu läh
+ desivulta. Title: Iron Blossom Festival. Source type: auto-jsonld
+URL:https://www.livenation.com/event/vvG17Z_1pJ7R-p/iron-blossom-festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f3167e21026f91e8410925fbdc383997bdea25cd@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:Jack White – Midtown Green / Iron Blossom Festival\, Richmond\, V
  A
-LOCATION:Midtown Green / Iron Blossom Festival\, Richmond\, VA\, United S
- tates
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. Festival | reference: https://pitchfork.com/news/jack-white-exten
- ds-2026-tour/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white
- -events\; https://www.setlist.fm/setlists/jack-white-33d69845.html
+LOCATION:Midtown Green / Iron Blossom Festival\, Richmond\, VA\, Richmond
+ \, VA\, United States
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:fd633edd8ad9544d2e3395b73b974d8be4360a80@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:c65e474630b7e63dc50b1526d4131cd0d9b573ed@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Foo Fighters – Kentucky Exposition Center / Bourbon & Beyond\, Lo
  uisville
-LOCATION:Kentucky Exposition Center / Bourbon & Beyond\, Louisville\, Uni
- ted States
-DESCRIPTION:Foo Fighters tour date. Source: https://foofighters.com/tour-
- dates/. Festival | reference: https://en.wikipedia.org/wiki/Take_Cover_T
- our
+LOCATION:Kentucky Exposition Center / Bourbon & Beyond\, Louisville\, Lou
+ isville\, United States
+DESCRIPTION:Foo Fighters tour/event date. Source: https://foofighters.com
+ /tour-dates/. Seed/manual from initial calendar file. Source type: manua
+ l
 URL:https://foofighters.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:c5e29e33589460f155232d9587d9e7362b2e4bbe@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:4a01ff9879add98700f9a67cfa079a041145bc17@tour-calendar
+DTSTAMP:20260620T054002Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Jack White – Bill Graham Civic Auditorium
+LOCATION:Bill Graham Civic Auditorium\, San Francisco\, US
+DESCRIPTION:Jack White tour/event date. Source: https://www.livenation.co
+ m/event/G5vYZ_FxGxIkR/jack-white-live-2026. Automaattisesti luettu lähde
+ sivulta. Title: JACK WHITE LIVE 2026. Source type: auto-jsonld
+URL:https://www.livenation.com/event/G5vYZ_FxGxIkR/jack-white-live-2026
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:35eb262b9e7be5b239f744e499e3fe63a07e8f4f@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Jack White – Bill Graham Civic Auditorium\, San Francisco\, CA
-LOCATION:Bill Graham Civic Auditorium\, San Francisco\, CA\, United State
- s
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. reference: https://pitchfork.com/news/jack-white-extends-2026-tou
- r/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white-events\; h
- ttps://www.setlist.fm/setlists/jack-white-33d69845.html
+LOCATION:Bill Graham Civic Auditorium\, San Francisco\, CA\, San Francisc
+ o\, CA\, United States
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:700009ce7d41451c0d0509fde87474e1b919d1d9@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:3e12bd63bdd48a25ec19490aec79732364c4d49a@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Jack White – Fox Theater\, Pomona\, CA
-LOCATION:Fox Theater\, Pomona\, CA\, United States
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. reference: https://pitchfork.com/news/jack-white-extends-2026-tou
- r/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white-events\; h
- ttps://www.setlist.fm/setlists/jack-white-33d69845.html
+LOCATION:Fox Theater\, Pomona\, CA\, Pomona\, CA\, United States
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:1bedd19661350fefb78759ae666e810ff492c9cb@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:e2006772c6f77f2f9bbeb58b480b8950f3108f5a@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:Foo Fighters – Allegiant Stadium\, Paradise
-LOCATION:Allegiant Stadium\, Paradise\, United States
-DESCRIPTION:Foo Fighters tour date. Source: https://foofighters.com/tour-
- dates/. reference: https://en.wikipedia.org/wiki/Take_Cover_Tour
+LOCATION:Allegiant Stadium\, Paradise\, Paradise\, United States
+DESCRIPTION:Foo Fighters tour/event date. Source: https://foofighters.com
+ /tour-dates/. Seed/manual from initial calendar file. Source type: manua
+ l
 URL:https://foofighters.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:c79104f941d430501306d29fa62b6d3289802398@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:3968624f0af7f7c9676c494c3dadc11e2a40d53d@tour-calendar
+DTSTAMP:20260620T054002Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Jack White – Hollywood Palladium
+LOCATION:Hollywood Palladium\, Hollywood\, US
+DESCRIPTION:Jack White tour/event date. Source: https://www.livenation.co
+ m/event/vv1ke8v0-zGAC5kNH/jack-white-live-2026. Automaattisesti luettu l
+ ähdesivulta. Title: JACK WHITE LIVE 2026. Source type: auto-jsonld
+URL:https://www.livenation.com/event/vv1ke8v0-zGAC5kNH/jack-white-live-20
+ 26
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:60d8a026b1e3842eb04221320c0f3e38d4b72f4d@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Jack White – Hollywood Palladium\, Los Angeles\, CA
-LOCATION:Hollywood Palladium\, Los Angeles\, CA\, United States
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. reference: https://pitchfork.com/news/jack-white-extends-2026-tou
- r/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white-events\; h
- ttps://www.setlist.fm/setlists/jack-white-33d69845.html
+LOCATION:Hollywood Palladium\, Los Angeles\, CA\, Los Angeles\, CA\, Unit
+ ed States
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:9127acc29149cc155d61dfdecf024c2e2efbda3d@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:71c77750f05c366a4772543626415cee96af10e5@tour-calendar
+DTSTAMP:20260620T054002Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Jack White – Hollywood Palladium
+LOCATION:Hollywood Palladium\, Hollywood\, US
+DESCRIPTION:Jack White tour/event date. Source: https://www.livenation.co
+ m/event/vv1ke8v0-zGAC8p0z/jack-white-live-2026. Automaattisesti luettu l
+ ähdesivulta. Title: JACK WHITE LIVE 2026. Source type: auto-jsonld
+URL:https://www.livenation.com/event/vv1ke8v0-zGAC8p0z/jack-white-live-20
+ 26
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9fbda7d9cdcc37d318e54fb281aec6213a0e8801@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Jack White – Hollywood Palladium\, Los Angeles\, CA
-LOCATION:Hollywood Palladium\, Los Angeles\, CA\, United States
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. reference: https://pitchfork.com/news/jack-white-extends-2026-tou
- r/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white-events\; h
- ttps://www.setlist.fm/setlists/jack-white-33d69845.html
+LOCATION:Hollywood Palladium\, Los Angeles\, CA\, Los Angeles\, CA\, Unit
+ ed States
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:c7dec881a123837464898ac7a6f481db32abb5f2@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:a7d6d832e6586937b44c2cb8bfb42d5f4f10341f@tour-calendar
+DTSTAMP:20260620T054002Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Jack White – The Sound
+LOCATION:The Sound\, Del Mar\, US
+DESCRIPTION:Jack White tour/event date. Source: https://www.livenation.co
+ m/event/rZ7HnEZ1Af-AvN/jack-white-jack-white-live-2026. Automaattisesti 
+ luettu lähdesivulta. Title: Jack White - JACK WHITE LIVE 2026. Source ty
+ pe: auto-jsonld
+URL:https://www.livenation.com/event/rZ7HnEZ1Af-AvN/jack-white-jack-white
+ -live-2026
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1211d94724f4e0bae04018e4103d667ce34dd756@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Jack White – The Sound\, Del Mar\, CA
-LOCATION:The Sound\, Del Mar\, CA\, United States
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. reference: https://pitchfork.com/news/jack-white-extends-2026-tou
- r/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white-events\; h
- ttps://www.setlist.fm/setlists/jack-white-33d69845.html
+LOCATION:The Sound\, Del Mar\, CA\, Del Mar\, CA\, United States
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:5148b372ff645452a742e1619e23c080a855b222@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:9eb6f7ce44718682b46fa86c411641db703e312b@tour-calendar
+DTSTAMP:20260620T054002Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Jack White – Fontainebleau Las Vegas
+LOCATION:Fontainebleau Las Vegas\, Las Vegas\, US
+DESCRIPTION:Jack White tour/event date. Source: https://www.livenation.co
+ m/event/1A9Zk3kGkdL68BZ/jack-white-live-2026. Automaattisesti luettu läh
+ desivulta. Title: JACK WHITE LIVE 2026. Source type: auto-jsonld
+URL:https://www.livenation.com/event/1A9Zk3kGkdL68BZ/jack-white-live-2026
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7289f5be2df7179084fcc062c7cf8b1c90ab5b90@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Jack White – Fontainebleau Las Vegas\, Las Vegas\, NV
-LOCATION:Fontainebleau Las Vegas\, Las Vegas\, NV\, United States
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. reference: https://pitchfork.com/news/jack-white-extends-2026-tou
- r/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white-events\; h
- ttps://www.setlist.fm/setlists/jack-white-33d69845.html
+LOCATION:Fontainebleau Las Vegas\, Las Vegas\, NV\, Las Vegas\, NV\, Unit
+ ed States
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:67a6da00518a09f4bf5b97bb952c37011f012cca@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:4382e6d0e876278069c17c9913acfa169d560895@tour-calendar
+DTSTAMP:20260620T054002Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Jack White – Arizona Financial Theatre
+LOCATION:Arizona Financial Theatre\, Phoenix\, US
+DESCRIPTION:Jack White tour/event date. Source: https://www.livenation.co
+ m/event/1A_Zk36GkeYM9z7/jack-white-live-2026. Automaattisesti luettu läh
+ desivulta. Title: JACK WHITE LIVE 2026. Source type: auto-jsonld
+URL:https://www.livenation.com/event/1A_Zk36GkeYM9z7/jack-white-live-2026
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3deed6cfcf31c3fe5d8cc772129b34ebda9b9b3b@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:Jack White – Arizona Financial Theatre\, Phoenix\, AZ
-LOCATION:Arizona Financial Theatre\, Phoenix\, AZ\, United States
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. reference: https://pitchfork.com/news/jack-white-extends-2026-tou
- r/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white-events\; h
- ttps://www.setlist.fm/setlists/jack-white-33d69845.html
+LOCATION:Arizona Financial Theatre\, Phoenix\, AZ\, Phoenix\, AZ\, United
+  States
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:37dc8e57c1b1444da10869c4683f3ad43434a8bf@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:8cd585c41bdea67943544cbefe80b0c9f9338ccd@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
 SUMMARY:Jack White – Revel\, Albuquerque\, NM
-LOCATION:Revel\, Albuquerque\, NM\, United States
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. reference: https://pitchfork.com/news/jack-white-extends-2026-tou
- r/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white-events\; h
- ttps://www.setlist.fm/setlists/jack-white-33d69845.html
+LOCATION:Revel\, Albuquerque\, NM\, Albuquerque\, NM\, United States
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:a44717678b51596d2825417edcf64fc2b23d3304@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:78d0349ac900beaffc17f9ef508f207314243dd8@tour-calendar
+DTSTAMP:20260620T054002Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Jack White – Moody Amphitheater
+LOCATION:Moody Amphitheater\, Austin\, US
+DESCRIPTION:Jack White tour/event date. Source: https://www.livenation.co
+ m/event/G5dIZ_FxZBVJ4/jack-white-live-2026. Automaattisesti luettu lähde
+ sivulta. Title: JACK WHITE LIVE 2026. Source type: auto-jsonld
+URL:https://www.livenation.com/event/G5dIZ_FxZBVJ4/jack-white-live-2026
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1a8d3f627409ed5c3e19d9aa0b39e69331b1051d@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Jack White – Moody Amphitheater\, Austin\, TX
-LOCATION:Moody Amphitheater\, Austin\, TX\, United States
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. reference: https://pitchfork.com/news/jack-white-extends-2026-tou
- r/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white-events\; h
- ttps://www.setlist.fm/setlists/jack-white-33d69845.html
+LOCATION:Moody Amphitheater\, Austin\, TX\, Austin\, TX\, United States
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:a1ece696ba58803c2712f0e42867a8ca6538f938@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:0706eae258571d54a2532ea7f1b9f86f0f8d3dc0@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:Jack White – The Bomb Factory\, Dallas\, TX
-LOCATION:The Bomb Factory\, Dallas\, TX\, United States
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. reference: https://pitchfork.com/news/jack-white-extends-2026-tou
- r/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white-events\; h
- ttps://www.setlist.fm/setlists/jack-white-33d69845.html
+LOCATION:The Bomb Factory\, Dallas\, TX\, Dallas\, TX\, United States
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:54649309e7f9f7e5cc1437b98abd2f9a83443bfc@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:ff32c90885cf3e8b1471327bf82dae120e7759fd@tour-calendar
+DTSTAMP:20260620T054002Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Jack White – The Truth
+LOCATION:The Truth\, Nashville\, US
+DESCRIPTION:Jack White tour/event date. Source: https://www.livenation.co
+ m/event/G5viZ_FQlFG4v/jack-white-live-2026. Automaattisesti luettu lähde
+ sivulta. Title: JACK WHITE LIVE 2026. Source type: auto-jsonld
+URL:https://www.livenation.com/event/G5viZ_FQlFG4v/jack-white-live-2026
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f560b1c2c9456fab99923d7a2a07607a9902d2ec@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Jack White – The Truth\, Nashville\, TN
-LOCATION:The Truth\, Nashville\, TN\, United States
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. reference: https://pitchfork.com/news/jack-white-extends-2026-tou
- r/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white-events\; h
- ttps://www.setlist.fm/setlists/jack-white-33d69845.html
+LOCATION:The Truth\, Nashville\, TN\, Nashville\, TN\, United States
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:3b3c101cece64f9e8713f88379d4359b1376fa5f@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:d804851b734f06838ac4583e82140b623d3cdbad@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Def Leppard – Autódromo de Querétaro\, Querétaro
-LOCATION:Autódromo de Querétaro\, Querétaro\, Mexico
-DESCRIPTION:Def Leppard tour date. Source: https://defleppard.com/tour/. 
- reference: https://www.deflepparduk.com/2026tour.html
+LOCATION:Autódromo de Querétaro\, Querétaro\, Querétaro\, Mexico
+DESCRIPTION:Def Leppard tour/event date. Source: https://defleppard.com/t
+ our/. Seed/manual from initial calendar file. Source type: manual
 URL:https://defleppard.com/tour/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:1d4928d19c153c6d0a912029a2163c6023a5184a@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:b7f4fb633a40498bab46ab87e990a2d39ea0fac0@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Def Leppard – Palacio De Los Deportes\, Mexico City
-LOCATION:Palacio De Los Deportes\, Mexico City\, Mexico
-DESCRIPTION:Def Leppard tour date. Source: https://defleppard.com/tour/. 
- reference: https://www.deflepparduk.com/2026tour.html
+LOCATION:Palacio De Los Deportes\, Mexico City\, Mexico City\, Mexico
+DESCRIPTION:Def Leppard tour/event date. Source: https://defleppard.com/t
+ our/. Seed/manual from initial calendar file. Source type: manual
 URL:https://defleppard.com/tour/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:6e9c979a861cff6722fc238e46f86be66490e23c@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:9d4960244fddd0a0f70d2dacfbec6998f505bf50@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Def Leppard – Arena VFG Guadalajara\, Guadalajara
-LOCATION:Arena VFG Guadalajara\, Guadalajara\, Mexico
-DESCRIPTION:Def Leppard tour date. Source: https://defleppard.com/tour/. 
- reference: https://www.deflepparduk.com/2026tour.html
+LOCATION:Arena VFG Guadalajara\, Guadalajara\, Guadalajara\, Mexico
+DESCRIPTION:Def Leppard tour/event date. Source: https://defleppard.com/t
+ our/. Seed/manual from initial calendar file. Source type: manual
 URL:https://defleppard.com/tour/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:1468502047f6bb877bb369dc877bc1660076ed06@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:5f37338fe5c1f101499934edfc3bd432a4b17c30@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:Def Leppard – Cuscatlán Stadium\, San Salvador
-LOCATION:Cuscatlán Stadium\, San Salvador\, El Salvador
-DESCRIPTION:Def Leppard tour date. Source: https://defleppard.com/tour/. 
- reference: https://www.deflepparduk.com/2026tour.html
+LOCATION:Cuscatlán Stadium\, San Salvador\, San Salvador\, El Salvador
+DESCRIPTION:Def Leppard tour/event date. Source: https://defleppard.com/t
+ our/. Seed/manual from initial calendar file. Source type: manual
 URL:https://defleppard.com/tour/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:e3e9a00ecd5b62c52e3813ca9ef9ad2459a7e445@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:3cc89d062e3d9d6286dfc72eca8f001949056ff2@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
 SUMMARY:Def Leppard – Anfiteatro Imperial Parque Viva\, Alajuela
-LOCATION:Anfiteatro Imperial Parque Viva\, Alajuela\, Costa Rica
-DESCRIPTION:Def Leppard tour date. Source: https://defleppard.com/tour/. 
- reference: https://www.deflepparduk.com/2026tour.html
+LOCATION:Anfiteatro Imperial Parque Viva\, Alajuela\, Alajuela\, Costa Ri
+ ca
+DESCRIPTION:Def Leppard tour/event date. Source: https://defleppard.com/t
+ our/. Seed/manual from initial calendar file. Source type: manual
 URL:https://defleppard.com/tour/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:6cc45e962afffe4927e21cc884f7c72256257c6d@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:6109b951aa913e464eafa11a20d765ee9297adb5@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Def Leppard – Estadio Olímpico Atahualpa\, Quito
-LOCATION:Estadio Olímpico Atahualpa\, Quito\, Ecuador
-DESCRIPTION:Def Leppard tour date. Source: https://defleppard.com/tour/. 
- reference: https://www.deflepparduk.com/2026tour.html
+LOCATION:Estadio Olímpico Atahualpa\, Quito\, Quito\, Ecuador
+DESCRIPTION:Def Leppard tour/event date. Source: https://defleppard.com/t
+ our/. Seed/manual from initial calendar file. Source type: manual
 URL:https://defleppard.com/tour/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:2fc0cce4ae3ed77a150e1d0cfedaf2f9282c5733@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:9fba54e99a7bbc0eca10ad3acc5f115325b0e657@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:Def Leppard – Movistar Arena\, Bogotá
-LOCATION:Movistar Arena\, Bogotá\, Colombia
-DESCRIPTION:Def Leppard tour date. Source: https://defleppard.com/tour/. 
- reference: https://www.deflepparduk.com/2026tour.html
+LOCATION:Movistar Arena\, Bogotá\, Bogotá\, Colombia
+DESCRIPTION:Def Leppard tour/event date. Source: https://defleppard.com/t
+ our/. Seed/manual from initial calendar file. Source type: manual
 URL:https://defleppard.com/tour/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:4fb3a12dcd22d73f4aad16238992c736c9c61a6b@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:62fbc488dd39c07ca2d480468c3891622f466ec4@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Def Leppard – Movistar Arena\, Buenos Aires
-LOCATION:Movistar Arena\, Buenos Aires\, Argentina
-DESCRIPTION:Def Leppard tour date. Source: https://defleppard.com/tour/. 
- reference: https://www.deflepparduk.com/2026tour.html
+LOCATION:Movistar Arena\, Buenos Aires\, Buenos Aires\, Argentina
+DESCRIPTION:Def Leppard tour/event date. Source: https://defleppard.com/t
+ our/. Seed/manual from initial calendar file. Source type: manual
 URL:https://defleppard.com/tour/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:4b9eba6354a20b68f224f65c39d585fc52b2e3c6@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:6556aaa688afbf23f532615d5b8d62ab3a401ec0@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Foo Fighters – Suncorp Stadium\, Brisbane
-LOCATION:Suncorp Stadium\, Brisbane\, Australia
-DESCRIPTION:Foo Fighters tour date. Source: https://foofighters.com/tour-
- dates/. reference: https://en.wikipedia.org/wiki/Take_Cover_Tour
+LOCATION:Suncorp Stadium\, Brisbane\, Brisbane\, Australia
+DESCRIPTION:Foo Fighters tour/event date. Source: https://foofighters.com
+ /tour-dates/. Seed/manual from initial calendar file. Source type: manua
+ l
 URL:https://foofighters.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:6d3d2fda112ac8a4033a81b6c8b18e8badfeae7a@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:9a471e38a141f6d67c132b88026a6c32e0fdafa8@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:Foo Fighters – Queensland Country Bank Stadium\, Townsville
-LOCATION:Queensland Country Bank Stadium\, Townsville\, Australia
-DESCRIPTION:Foo Fighters tour date. Source: https://foofighters.com/tour-
- dates/. reference: https://en.wikipedia.org/wiki/Take_Cover_Tour
+LOCATION:Queensland Country Bank Stadium\, Townsville\, Townsville\, Aust
+ ralia
+DESCRIPTION:Foo Fighters tour/event date. Source: https://foofighters.com
+ /tour-dates/. Seed/manual from initial calendar file. Source type: manua
+ l
 URL:https://foofighters.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:b92db45c0fd1ecd1baca8a63df1a358e0e5a127a@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:91b76801f39123c6aad7c617b5ea411889a84077@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:Def Leppard – Movistar Arena\, Santiago
-LOCATION:Movistar Arena\, Santiago\, Chile
-DESCRIPTION:Def Leppard tour date. Source: https://defleppard.com/tour/. 
- reference: https://www.deflepparduk.com/2026tour.html
+LOCATION:Movistar Arena\, Santiago\, Santiago\, Chile
+DESCRIPTION:Def Leppard tour/event date. Source: https://defleppard.com/t
+ our/. Seed/manual from initial calendar file. Source type: manual
 URL:https://defleppard.com/tour/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:768c10722b85df41eef4a17a49dd3f6121fee409@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:a8dce8dd8d778b4ea5dbad194d1a0a95cbb06dda@tour-calendar
+DTSTAMP:20260620T054002Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Jack White – Armory
+LOCATION:Armory\, Minneapolis\, US
+DESCRIPTION:Jack White tour/event date. Source: https://www.livenation.co
+ m/event/vv1AkZk3kGkdA1r6y/jack-white-live-2026. Automaattisesti luettu l
+ ähdesivulta. Title: JACK WHITE LIVE 2026. Source type: auto-jsonld
+URL:https://www.livenation.com/event/vv1AkZk3kGkdA1r6y/jack-white-live-20
+ 26
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:35c644629eb55a1a90861e5bd31b11ca1f9e93b1@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:Jack White – The Armory\, Minneapolis\, MN
-LOCATION:The Armory\, Minneapolis\, MN\, United States
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. reference: https://pitchfork.com/news/jack-white-extends-2026-tou
- r/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white-events\; h
- ttps://www.setlist.fm/setlists/jack-white-33d69845.html
+LOCATION:The Armory\, Minneapolis\, MN\, Minneapolis\, MN\, United States
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:4aaba75b16516d2eac9e824ce1fc011673c251bf@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:120d98af5569c251bd20a271647ccf15bb1dbf3f@tour-calendar
+DTSTAMP:20260620T054002Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Jack White – The Sylvee
+LOCATION:The Sylvee\, Madison\, US
+DESCRIPTION:Jack White tour/event date. Source: https://www.livenation.co
+ m/event/vv1A6Zk3FGkeDtPNJ/jack-white-live-2026. Automaattisesti luettu l
+ ähdesivulta. Title: JACK WHITE LIVE 2026. Source type: auto-jsonld
+URL:https://www.livenation.com/event/vv1A6Zk3FGkeDtPNJ/jack-white-live-20
+ 26
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8108bf83e2b7b76e319c4bc3ea750504701814e3@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:Jack White – The Sylvee\, Madison\, WI
-LOCATION:The Sylvee\, Madison\, WI\, United States
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. reference: https://pitchfork.com/news/jack-white-extends-2026-tou
- r/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white-events\; h
- ttps://www.setlist.fm/setlists/jack-white-33d69845.html
+LOCATION:The Sylvee\, Madison\, WI\, Madison\, WI\, United States
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:11c4a063d6cd5f7ac467f1c389909af7a3730dc3@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:ce5eb56a7fc637b1c2e575a44ad4a87e259484ee@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Foo Fighters – Accor Stadium\, Sydney
-LOCATION:Accor Stadium\, Sydney\, Australia
-DESCRIPTION:Foo Fighters tour date. Source: https://foofighters.com/tour-
- dates/. reference: https://en.wikipedia.org/wiki/Take_Cover_Tour
+LOCATION:Accor Stadium\, Sydney\, Sydney\, Australia
+DESCRIPTION:Foo Fighters tour/event date. Source: https://foofighters.com
+ /tour-dates/. Seed/manual from initial calendar file. Source type: manua
+ l
 URL:https://foofighters.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:8a8fc816307fa180c82226b06fe4abaf0fa2a16c@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:464626818aab83bc8c203ca59e861b3bbd8a7c93@tour-calendar
+DTSTAMP:20260620T054002Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Jack White – Landmark Credit Union Live
+LOCATION:Landmark Credit Union Live\, Milwaukee\, US
+DESCRIPTION:Jack White tour/event date. Source: https://www.livenation.co
+ m/event/vv1kvYv0-IGA1ZoTS/jack-white-live-2026. Automaattisesti luettu l
+ ähdesivulta. Title: JACK WHITE LIVE 2026. Source type: auto-jsonld
+URL:https://www.livenation.com/event/vv1kvYv0-IGA1ZoTS/jack-white-live-20
+ 26
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:647ae81199888901146724493793447931ccd879@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Jack White – Landmark Credit Union Live\, Milwaukee\, WI
-LOCATION:Landmark Credit Union Live\, Milwaukee\, WI\, United States
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. reference: https://pitchfork.com/news/jack-white-extends-2026-tou
- r/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white-events\; h
- ttps://www.setlist.fm/setlists/jack-white-33d69845.html
+LOCATION:Landmark Credit Union Live\, Milwaukee\, WI\, Milwaukee\, WI\, U
+ nited States
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:241202644c1106a25c58b0301e7d385a379f363d@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:c02b29c340c91e0b0480fc321af062fdb3ec17d2@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Foo Fighters – McDonald Jones Stadium\, Newcastle
-LOCATION:McDonald Jones Stadium\, Newcastle\, Australia
-DESCRIPTION:Foo Fighters tour date. Source: https://foofighters.com/tour-
- dates/. reference: https://en.wikipedia.org/wiki/Take_Cover_Tour
+LOCATION:McDonald Jones Stadium\, Newcastle\, Newcastle\, Australia
+DESCRIPTION:Foo Fighters tour/event date. Source: https://foofighters.com
+ /tour-dates/. Seed/manual from initial calendar file. Source type: manua
+ l
 URL:https://foofighters.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:65dec1efaea55a7f2019153a66441f3e264cd66e@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:1032ea57ec4d1714ed46705fc103a9c38728636b@tour-calendar
+DTSTAMP:20260620T054002Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Jack White – Citizens Live at The Wylie
+LOCATION:Citizens Live at The Wylie\, Pittsburgh\, US
+DESCRIPTION:Jack White tour/event date. Source: https://www.livenation.co
+ m/event/16pZk36ayZA885eC/jack-white-live-2026. Automaattisesti luettu lä
+ hdesivulta. Title: JACK WHITE LIVE 2026. Source type: auto-jsonld
+URL:https://www.livenation.com/event/16pZk36ayZA885eC/jack-white-live-202
+ 6
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2e72c2b216e1d61799c88e7c09b9b429806dbb7f@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Jack White – Citizens Live at The Wylie\, Pittsburgh\, PA
-LOCATION:Citizens Live at The Wylie\, Pittsburgh\, PA\, United States
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. reference: https://pitchfork.com/news/jack-white-extends-2026-tou
- r/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white-events\; h
- ttps://www.setlist.fm/setlists/jack-white-33d69845.html
+LOCATION:Citizens Live at The Wylie\, Pittsburgh\, PA\, Pittsburgh\, PA\,
+  United States
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:6cb686ecaff7c3420e9066dcb4fb36534c63b3cd@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:92eed7ff80875e08c10f3d4cb3ff90f15105b882@tour-calendar
+DTSTAMP:20260620T054002Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Jack White – The Fillmore Charlotte
+LOCATION:The Fillmore Charlotte\, Charlotte\, US
+DESCRIPTION:Jack White tour/event date. Source: https://www.livenation.co
+ m/event/G5eVZ_FL9YMJz/jack-white-live-2026. Automaattisesti luettu lähde
+ sivulta. Title: JACK WHITE LIVE 2026. Source type: auto-jsonld
+URL:https://www.livenation.com/event/G5eVZ_FL9YMJz/jack-white-live-2026
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:af455fa6adcbc55c0cab04767184bed8d64aa375@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Jack White – The Fillmore Charlotte\, Charlotte\, NC
-LOCATION:The Fillmore Charlotte\, Charlotte\, NC\, United States
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. reference: https://pitchfork.com/news/jack-white-extends-2026-tou
- r/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white-events\; h
- ttps://www.setlist.fm/setlists/jack-white-33d69845.html
+LOCATION:The Fillmore Charlotte\, Charlotte\, NC\, Charlotte\, NC\, Unite
+ d States
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:079cde9e61a8620ab88f6cf5a61a30bae8670109@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:990c19f8bd8a61b68a7c43925350260199b4fb3d@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Foo Fighters – Marvel Stadium\, Melbourne
-LOCATION:Marvel Stadium\, Melbourne\, Australia
-DESCRIPTION:Foo Fighters tour date. Source: https://foofighters.com/tour-
- dates/. reference: https://en.wikipedia.org/wiki/Take_Cover_Tour
+LOCATION:Marvel Stadium\, Melbourne\, Melbourne\, Australia
+DESCRIPTION:Foo Fighters tour/event date. Source: https://foofighters.com
+ /tour-dates/. Seed/manual from initial calendar file. Source type: manua
+ l
 URL:https://foofighters.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:dfa57d78bd791cdddfcc4e207f6951940b5b6e9d@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:9ce1db009e6951787411522470b43c2bae4e8e75@tour-calendar
+DTSTAMP:20260620T054002Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Jack White – The Fillmore Charlotte
+LOCATION:The Fillmore Charlotte\, Charlotte\, US
+DESCRIPTION:Jack White tour/event date. Source: https://www.livenation.co
+ m/event/G5eVZ_FL9sEEv/jack-white-live-2026. Automaattisesti luettu lähde
+ sivulta. Title: JACK WHITE LIVE 2026. Source type: auto-jsonld
+URL:https://www.livenation.com/event/G5eVZ_FL9sEEv/jack-white-live-2026
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c7c939ef765512cdf93d6e6d5056125ef854c6c5@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Jack White – The Fillmore Charlotte\, Charlotte\, NC
-LOCATION:The Fillmore Charlotte\, Charlotte\, NC\, United States
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. reference: https://pitchfork.com/news/jack-white-extends-2026-tou
- r/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white-events\; h
- ttps://www.setlist.fm/setlists/jack-white-33d69845.html
+LOCATION:The Fillmore Charlotte\, Charlotte\, NC\, Charlotte\, NC\, Unite
+ d States
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:7f2c6e4062529b034f436bd5e2f6359819a74711@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:b94fe93afea41c1c8ddae5d85e5cf5f4a0c05236@tour-calendar
+DTSTAMP:20260620T054002Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Jack White – Hard Rock Live Orlando
+LOCATION:Hard Rock Live Orlando\, Orlando\, US
+DESCRIPTION:Jack White tour/event date. Source: https://www.livenation.co
+ m/event/1AxZk3FGkeUQgr9/jack-white-live-2026. Automaattisesti luettu läh
+ desivulta. Title: JACK WHITE LIVE 2026. Source type: auto-jsonld
+URL:https://www.livenation.com/event/1AxZk3FGkeUQgr9/jack-white-live-2026
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:106c5b2d7311d49d79272c2f12e2497c09ffa1af@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Jack White – Hard Rock Live Orlando\, Orlando\, FL
-LOCATION:Hard Rock Live Orlando\, Orlando\, FL\, United States
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. reference: https://pitchfork.com/news/jack-white-extends-2026-tou
- r/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white-events\; h
- ttps://www.setlist.fm/setlists/jack-white-33d69845.html
+LOCATION:Hard Rock Live Orlando\, Orlando\, FL\, Orlando\, FL\, United St
+ ates
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:755e001268bc4dcb6f899ae29d9768e3dae4ec56@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:2f0baf606101408c869642b1c193fbc1b3d72e4c@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Foo Fighters – Coopers Stadium\, Adelaide
-LOCATION:Coopers Stadium\, Adelaide\, Australia
-DESCRIPTION:Foo Fighters tour date. Source: https://foofighters.com/tour-
- dates/. reference: https://en.wikipedia.org/wiki/Take_Cover_Tour
+LOCATION:Coopers Stadium\, Adelaide\, Adelaide\, Australia
+DESCRIPTION:Foo Fighters tour/event date. Source: https://foofighters.com
+ /tour-dates/. Seed/manual from initial calendar file. Source type: manua
+ l
 URL:https://foofighters.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:c3379c138a23c6530135879daded4ef5c0811100@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:b653cb63be35c48f1599b1b9d72a9202f19b0925@tour-calendar
+DTSTAMP:20260620T054002Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Jack White – The Fillmore Miami Beach At The Jackie Gleason Theat
+ re
+LOCATION:The Fillmore Miami Beach At The Jackie Gleason Theatre\, Miami B
+ each\, US
+DESCRIPTION:Jack White tour/event date. Source: https://www.livenation.co
+ m/event/vvG1VZ_FjZL_D1/jack-white-live-2026. Automaattisesti luettu lähd
+ esivulta. Title: JACK WHITE LIVE 2026. Source type: auto-jsonld
+URL:https://www.livenation.com/event/vvG1VZ_FjZL_D1/jack-white-live-2026
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:485192025add219a7c7f98f8664a0eaa9553283a@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Jack White – The Fillmore Miami Beach\, Miami Beach\, FL
-LOCATION:The Fillmore Miami Beach\, Miami Beach\, FL\, United States
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. reference: https://pitchfork.com/news/jack-white-extends-2026-tou
- r/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white-events\; h
- ttps://www.setlist.fm/setlists/jack-white-33d69845.html
+LOCATION:The Fillmore Miami Beach\, Miami Beach\, FL\, Miami Beach\, FL\,
+  United States
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:be91f2b900c7050020ca49ca6617955bb469bfdd@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:23c9f38fd2be9c2edd85163c9881d126887b9eb9@tour-calendar
+DTSTAMP:20260620T054002Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Jack White – The Fillmore Miami Beach At The Jackie Gleason Theat
+ re
+LOCATION:The Fillmore Miami Beach At The Jackie Gleason Theatre\, Miami B
+ each\, US
+DESCRIPTION:Jack White tour/event date. Source: https://www.livenation.co
+ m/event/vvG1VZ_FjZLyDG/jack-white-live-2026. Automaattisesti luettu lähd
+ esivulta. Title: JACK WHITE LIVE 2026. Source type: auto-jsonld
+URL:https://www.livenation.com/event/vvG1VZ_FjZLyDG/jack-white-live-2026
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:63d1a7bd95607fbd68359bd367478db51fbf4337@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Jack White – The Fillmore Miami Beach\, Miami Beach\, FL
-LOCATION:The Fillmore Miami Beach\, Miami Beach\, FL\, United States
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. reference: https://pitchfork.com/news/jack-white-extends-2026-tou
- r/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white-events\; h
- ttps://www.setlist.fm/setlists/jack-white-33d69845.html
+LOCATION:The Fillmore Miami Beach\, Miami Beach\, FL\, Miami Beach\, FL\,
+  United States
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:2ade5845b8df6d54a0cae91d904db0cc74f6715f@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:c0351950c8b2846435d097767dd93d05566d29a0@tour-calendar
+DTSTAMP:20260620T054002Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Jack White – Coca-Cola Roxy
+LOCATION:Coca-Cola Roxy\, Atlanta\, US
+DESCRIPTION:Jack White tour/event date. Source: https://www.livenation.co
+ m/event/vvG1zZ_FrhF9VY/jack-white-live-2026. Automaattisesti luettu lähd
+ esivulta. Title: JACK WHITE LIVE 2026. Source type: auto-jsonld
+URL:https://www.livenation.com/event/vvG1zZ_FrhF9VY/jack-white-live-2026
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5caa46331e6cef0b21762ee4c52302879d76f48d@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Jack White – Coca-Cola Roxy\, Atlanta\, GA
-LOCATION:Coca-Cola Roxy\, Atlanta\, GA\, United States
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. reference: https://pitchfork.com/news/jack-white-extends-2026-tou
- r/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white-events\; h
- ttps://www.setlist.fm/setlists/jack-white-33d69845.html
+LOCATION:Coca-Cola Roxy\, Atlanta\, GA\, Atlanta\, GA\, United States
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:37a210580b7971a6ff7d9197ec737f533b88cbc8@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:a7e13644ffadcb7f137a0c981dc3c982500c1023@tour-calendar
+DTSTAMP:20260620T054002Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Jack White – Coca-Cola Roxy
+LOCATION:Coca-Cola Roxy\, Atlanta\, US
+DESCRIPTION:Jack White tour/event date. Source: https://www.livenation.co
+ m/event/vvG1zZ_FrhZ9ww/jack-white-live-2026. Automaattisesti luettu lähd
+ esivulta. Title: JACK WHITE LIVE 2026. Source type: auto-jsonld
+URL:https://www.livenation.com/event/vvG1zZ_FrhZ9ww/jack-white-live-2026
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e75cd27ac19c11350db62b16f20f501707a52827@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Jack White – Coca-Cola Roxy\, Atlanta\, GA
-LOCATION:Coca-Cola Roxy\, Atlanta\, GA\, United States
-DESCRIPTION:Jack White tour date. Source: https://jackwhiteiii.com/tour-d
- ates/. reference: https://pitchfork.com/news/jack-white-extends-2026-tou
- r/\; https://www.livenation.com/artist/K8vZ917us6V/jack-white-events\; h
- ttps://www.setlist.fm/setlists/jack-white-33d69845.html
+LOCATION:Coca-Cola Roxy\, Atlanta\, GA\, Atlanta\, GA\, United States
+DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
+ tour-dates/. Seed/manual from initial calendar file. Source type: manual
 URL:https://jackwhiteiii.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:19c894fe623f00496cee29bb9822cc52a4ee28e8@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:7d843117cfd479c647f07ffb7d131cd2c9380508@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270120
 SUMMARY:Foo Fighters – One New Zealand Stadium\, Christchurch
-LOCATION:One New Zealand Stadium\, Christchurch\, New Zealand
-DESCRIPTION:Foo Fighters tour date. Source: https://foofighters.com/tour-
- dates/. reference: https://en.wikipedia.org/wiki/Take_Cover_Tour
+LOCATION:One New Zealand Stadium\, Christchurch\, Christchurch\, New Zeal
+ and
+DESCRIPTION:Foo Fighters tour/event date. Source: https://foofighters.com
+ /tour-dates/. Seed/manual from initial calendar file. Source type: manua
+ l
 URL:https://foofighters.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:93e235606c4a29584a3279e7c957abdd78dc6892@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:e559ff6de9c25a508a16cb2251c1b6c5468ae079@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
 SUMMARY:Foo Fighters – Western Springs Stadium\, Auckland
-LOCATION:Western Springs Stadium\, Auckland\, New Zealand
-DESCRIPTION:Foo Fighters tour date. Source: https://foofighters.com/tour-
- dates/. reference: https://en.wikipedia.org/wiki/Take_Cover_Tour
+LOCATION:Western Springs Stadium\, Auckland\, Auckland\, New Zealand
+DESCRIPTION:Foo Fighters tour/event date. Source: https://foofighters.com
+ /tour-dates/. Seed/manual from initial calendar file. Source type: manua
+ l
 URL:https://foofighters.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:8167c557b24d58fab6737f2a38e48dee73b8c140@chatgpt-kiertuekalenteri
-DTSTAMP:20260619T115744Z
+UID:f3b162ce3b55feb8b49ebfed5b0983c2a1fb3c8a@tour-calendar
+DTSTAMP:20260620T054002Z
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270126
 SUMMARY:Foo Fighters – HBF Park\, Perth
-LOCATION:HBF Park\, Perth\, Australia
-DESCRIPTION:Foo Fighters tour date. Source: https://foofighters.com/tour-
- dates/. reference: https://en.wikipedia.org/wiki/Take_Cover_Tour
+LOCATION:HBF Park\, Perth\, Perth\, Australia
+DESCRIPTION:Foo Fighters tour/event date. Source: https://foofighters.com
+ /tour-dates/. Seed/manual from initial calendar file. Source type: manua
+ l
 URL:https://foofighters.com/tour-dates/
 TRANSP:TRANSPARENT
 END:VEVENT

@@ -1,36 +1,6 @@
 [
   {
     "artist": "Def Leppard",
-    "date": "2026-06-19",
-    "city": "Zürich",
-    "country": "Switzerland",
-    "venue": "Hallenstadion, Zürich",
-    "url": "https://defleppard.com/tour/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
-    "artist": "Foo Fighters",
-    "date": "2026-06-19",
-    "city": "Paris",
-    "country": "France",
-    "venue": "Paris La Défense Arena, Paris",
-    "url": "https://foofighters.com/tour-dates/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
-    "artist": "Jack White",
-    "date": "2026-06-19",
-    "city": "Camaiore",
-    "country": "Italy",
-    "venue": "La Prima Estate, Camaiore",
-    "url": "https://jackwhiteiii.com/tour-dates/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
-    "artist": "Def Leppard",
     "date": "2026-06-21",
     "city": "Dessel",
     "country": "Belgium",
@@ -223,11 +193,31 @@
     "artist": "Jack White",
     "date": "2026-07-10",
     "city": "Washington",
+    "country": "US",
+    "venue": "The Anthem",
+    "url": "https://www.livenation.com/event/164Zk3k-oZAu77u8/jack-white-live-2026",
+    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
+    "source_type": "auto-jsonld"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-07-10",
+    "city": "Washington",
     "country": "DC, United States",
     "venue": "The Anthem, Washington, DC",
     "url": "https://jackwhiteiii.com/tour-dates/",
     "note": "Seed/manual from initial calendar file",
     "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-07-11",
+    "city": "Brooklyn",
+    "country": "US",
+    "venue": "Brooklyn Paramount",
+    "url": "https://www.livenation.com/event/k7v17_Fr4G7WbJl/jack-white-live-2026",
+    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
+    "source_type": "auto-jsonld"
   },
   {
     "artist": "Jack White",
@@ -243,11 +233,31 @@
     "artist": "Jack White",
     "date": "2026-07-12",
     "city": "Brooklyn",
+    "country": "US",
+    "venue": "Brooklyn Paramount",
+    "url": "https://www.livenation.com/event/k7v17_Fr4G7HbJK/jack-white-live-2026",
+    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
+    "source_type": "auto-jsonld"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-07-12",
+    "city": "Brooklyn",
     "country": "NY, United States",
     "venue": "Brooklyn Paramount, Brooklyn, NY",
     "url": "https://jackwhiteiii.com/tour-dates/",
     "note": "Seed/manual from initial calendar file",
     "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-07-14",
+    "city": "Toronto",
+    "country": "CA",
+    "venue": "RBC Amphitheatre",
+    "url": "https://www.livenation.com/event/1A8Zk3FGkeDScl0/jack-white-live-2026",
+    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
+    "source_type": "auto-jsonld"
   },
   {
     "artist": "Jack White",
@@ -273,6 +283,16 @@
     "artist": "Jack White",
     "date": "2026-07-17",
     "city": "Boston",
+    "country": "US",
+    "venue": "MGM Music Hall at Fenway",
+    "url": "https://www.livenation.com/event/vv1AvZk3kGkePDQjO/jack-white-live-2026",
+    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
+    "source_type": "auto-jsonld"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-07-17",
+    "city": "Boston",
     "country": "MA, United States",
     "venue": "MGM Music Hall at Fenway, Boston, MA",
     "url": "https://jackwhiteiii.com/tour-dates/",
@@ -293,11 +313,31 @@
     "artist": "Jack White",
     "date": "2026-07-19",
     "city": "Port Chester",
+    "country": "US",
+    "venue": "The Capitol Theatre",
+    "url": "https://www.livenation.com/event/G5vVZ_a305SR3/jack-white-live-2026",
+    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
+    "source_type": "auto-jsonld"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-07-19",
+    "city": "Port Chester",
     "country": "NY, United States",
     "venue": "The Capitol Theatre, Port Chester, NY",
     "url": "https://jackwhiteiii.com/tour-dates/",
     "note": "Seed/manual from initial calendar file",
     "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-07-21",
+    "city": "Indianapolis",
+    "country": "US",
+    "venue": "Everwise Amphitheater at White River State Park",
+    "url": "https://www.livenation.com/event/vv1AAZk36GkdL3hE3/jack-white-live-2026",
+    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
+    "source_type": "auto-jsonld"
   },
   {
     "artist": "Jack White",
@@ -328,6 +368,26 @@
     "url": "https://jackwhiteiii.com/tour-dates/",
     "note": "Seed/manual from initial calendar file",
     "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-07-24",
+    "city": "Chicago",
+    "country": "US",
+    "venue": "The Salt Shed Outdoors (Fairgrounds)",
+    "url": "https://www.livenation.com/event/vv1A7Zk3FGketakcX/jack-white-live-2026",
+    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
+    "source_type": "auto-jsonld"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-07-25",
+    "city": "Clarkston",
+    "country": "US",
+    "venue": "Pine Knob Music Theatre",
+    "url": "https://www.livenation.com/event/vv1keZv0xaGAC7g1K/jack-white-live-2026",
+    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
+    "source_type": "auto-jsonld"
   },
   {
     "artist": "Jack White",
@@ -424,6 +484,16 @@
     "date": "2026-08-17",
     "city": "Seoul",
     "country": "South Korea",
+    "venue": "YES24 Live Hall",
+    "url": "https://www.livenation.com/event/intl_1672337/jack-white-live-2026-in-seoul",
+    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026 in Seoul",
+    "source_type": "auto-jsonld"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-08-17",
+    "city": "Seoul",
+    "country": "South Korea",
     "venue": "YES24 Live Hall, Seoul",
     "url": "https://jackwhiteiii.com/tour-dates/",
     "note": "Seed/manual from initial calendar file",
@@ -463,11 +533,31 @@
     "artist": "Jack White",
     "date": "2026-08-25",
     "city": "London",
+    "country": "United Kingdom",
+    "venue": "Eventim Apollo",
+    "url": "https://www.livenation.com/event/intl_1665795/jack-white-live-2026",
+    "note": "Automaattisesti luettu lähdesivulta. Title: Jack White: LIVE 2026",
+    "source_type": "auto-jsonld"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-08-25",
+    "city": "London",
     "country": "England",
     "venue": "Eventim Apollo, London",
     "url": "https://jackwhiteiii.com/tour-dates/",
     "note": "Seed/manual from initial calendar file",
     "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-08-26",
+    "city": "London",
+    "country": "United Kingdom",
+    "venue": "Eventim Apollo",
+    "url": "https://www.livenation.com/event/intl_1665799/jack-white-live-2026",
+    "note": "Automaattisesti luettu lähdesivulta. Title: Jack White: LIVE 2026",
+    "source_type": "auto-jsonld"
   },
   {
     "artist": "Jack White",
@@ -483,11 +573,31 @@
     "artist": "Jack White",
     "date": "2026-08-28",
     "city": "Bristol",
+    "country": "United Kingdom",
+    "venue": "The Prospect Building",
+    "url": "https://www.livenation.com/event/intl_1665803/jack-white-live-2026",
+    "note": "Automaattisesti luettu lähdesivulta. Title: Jack White: LIVE 2026",
+    "source_type": "auto-jsonld"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-08-28",
+    "city": "Bristol",
     "country": "England",
     "venue": "The Prospect Building, Bristol",
     "url": "https://jackwhiteiii.com/tour-dates/",
     "note": "Seed/manual from initial calendar file",
     "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-08-29",
+    "city": "Newcastle",
+    "country": "United Kingdom",
+    "venue": "O2 City Hall Newcastle",
+    "url": "https://www.livenation.com/event/intl_1666175/jack-white-live-2026",
+    "note": "Automaattisesti luettu lähdesivulta. Title: Jack White: LIVE 2026",
+    "source_type": "auto-jsonld"
   },
   {
     "artist": "Jack White",
@@ -603,6 +713,16 @@
     "artist": "Jack White",
     "date": "2026-09-20",
     "city": "Richmond",
+    "country": "US",
+    "venue": "Midtown Green",
+    "url": "https://www.livenation.com/event/vvG17Z_1pJ7R-p/iron-blossom-festival",
+    "note": "Automaattisesti luettu lähdesivulta. Title: Iron Blossom Festival",
+    "source_type": "auto-jsonld"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-09-20",
+    "city": "Richmond",
     "country": "VA, United States",
     "venue": "Midtown Green / Iron Blossom Festival, Richmond, VA",
     "url": "https://jackwhiteiii.com/tour-dates/",
@@ -618,6 +738,16 @@
     "url": "https://foofighters.com/tour-dates/",
     "note": "Seed/manual from initial calendar file",
     "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-09-24",
+    "city": "San Francisco",
+    "country": "US",
+    "venue": "Bill Graham Civic Auditorium",
+    "url": "https://www.livenation.com/event/G5vYZ_FxGxIkR/jack-white-live-2026",
+    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
+    "source_type": "auto-jsonld"
   },
   {
     "artist": "Jack White",
@@ -652,12 +782,32 @@
   {
     "artist": "Jack White",
     "date": "2026-09-28",
+    "city": "Hollywood",
+    "country": "US",
+    "venue": "Hollywood Palladium",
+    "url": "https://www.livenation.com/event/vv1ke8v0-zGAC5kNH/jack-white-live-2026",
+    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
+    "source_type": "auto-jsonld"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-09-28",
     "city": "Los Angeles",
     "country": "CA, United States",
     "venue": "Hollywood Palladium, Los Angeles, CA",
     "url": "https://jackwhiteiii.com/tour-dates/",
     "note": "Seed/manual from initial calendar file",
     "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-09-29",
+    "city": "Hollywood",
+    "country": "US",
+    "venue": "Hollywood Palladium",
+    "url": "https://www.livenation.com/event/vv1ke8v0-zGAC8p0z/jack-white-live-2026",
+    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
+    "source_type": "auto-jsonld"
   },
   {
     "artist": "Jack White",
@@ -673,6 +823,16 @@
     "artist": "Jack White",
     "date": "2026-09-30",
     "city": "Del Mar",
+    "country": "US",
+    "venue": "The Sound",
+    "url": "https://www.livenation.com/event/rZ7HnEZ1Af-AvN/jack-white-jack-white-live-2026",
+    "note": "Automaattisesti luettu lähdesivulta. Title: Jack White - JACK WHITE LIVE 2026",
+    "source_type": "auto-jsonld"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-09-30",
+    "city": "Del Mar",
     "country": "CA, United States",
     "venue": "The Sound, Del Mar, CA",
     "url": "https://jackwhiteiii.com/tour-dates/",
@@ -683,11 +843,31 @@
     "artist": "Jack White",
     "date": "2026-10-02",
     "city": "Las Vegas",
+    "country": "US",
+    "venue": "Fontainebleau Las Vegas",
+    "url": "https://www.livenation.com/event/1A9Zk3kGkdL68BZ/jack-white-live-2026",
+    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
+    "source_type": "auto-jsonld"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-10-02",
+    "city": "Las Vegas",
     "country": "NV, United States",
     "venue": "Fontainebleau Las Vegas, Las Vegas, NV",
     "url": "https://jackwhiteiii.com/tour-dates/",
     "note": "Seed/manual from initial calendar file",
     "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-10-03",
+    "city": "Phoenix",
+    "country": "US",
+    "venue": "Arizona Financial Theatre",
+    "url": "https://www.livenation.com/event/1A_Zk36GkeYM9z7/jack-white-live-2026",
+    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
+    "source_type": "auto-jsonld"
   },
   {
     "artist": "Jack White",
@@ -713,6 +893,16 @@
     "artist": "Jack White",
     "date": "2026-10-06",
     "city": "Austin",
+    "country": "US",
+    "venue": "Moody Amphitheater",
+    "url": "https://www.livenation.com/event/G5dIZ_FxZBVJ4/jack-white-live-2026",
+    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
+    "source_type": "auto-jsonld"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-10-06",
+    "city": "Austin",
     "country": "TX, United States",
     "venue": "Moody Amphitheater, Austin, TX",
     "url": "https://jackwhiteiii.com/tour-dates/",
@@ -728,6 +918,16 @@
     "url": "https://jackwhiteiii.com/tour-dates/",
     "note": "Seed/manual from initial calendar file",
     "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-10-09",
+    "city": "Nashville",
+    "country": "US",
+    "venue": "The Truth",
+    "url": "https://www.livenation.com/event/G5viZ_FQlFG4v/jack-white-live-2026",
+    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
+    "source_type": "auto-jsonld"
   },
   {
     "artist": "Jack White",
@@ -853,11 +1053,31 @@
     "artist": "Jack White",
     "date": "2026-11-08",
     "city": "Minneapolis",
+    "country": "US",
+    "venue": "Armory",
+    "url": "https://www.livenation.com/event/vv1AkZk3kGkdA1r6y/jack-white-live-2026",
+    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
+    "source_type": "auto-jsonld"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-11-08",
+    "city": "Minneapolis",
     "country": "MN, United States",
     "venue": "The Armory, Minneapolis, MN",
     "url": "https://jackwhiteiii.com/tour-dates/",
     "note": "Seed/manual from initial calendar file",
     "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-11-09",
+    "city": "Madison",
+    "country": "US",
+    "venue": "The Sylvee",
+    "url": "https://www.livenation.com/event/vv1A6Zk3FGkeDtPNJ/jack-white-live-2026",
+    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
+    "source_type": "auto-jsonld"
   },
   {
     "artist": "Jack White",
@@ -883,6 +1103,16 @@
     "artist": "Jack White",
     "date": "2026-11-10",
     "city": "Milwaukee",
+    "country": "US",
+    "venue": "Landmark Credit Union Live",
+    "url": "https://www.livenation.com/event/vv1kvYv0-IGA1ZoTS/jack-white-live-2026",
+    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
+    "source_type": "auto-jsonld"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-11-10",
+    "city": "Milwaukee",
     "country": "WI, United States",
     "venue": "Landmark Credit Union Live, Milwaukee, WI",
     "url": "https://jackwhiteiii.com/tour-dates/",
@@ -903,11 +1133,31 @@
     "artist": "Jack White",
     "date": "2026-11-12",
     "city": "Pittsburgh",
+    "country": "US",
+    "venue": "Citizens Live at The Wylie",
+    "url": "https://www.livenation.com/event/16pZk36ayZA885eC/jack-white-live-2026",
+    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
+    "source_type": "auto-jsonld"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-11-12",
+    "city": "Pittsburgh",
     "country": "PA, United States",
     "venue": "Citizens Live at The Wylie, Pittsburgh, PA",
     "url": "https://jackwhiteiii.com/tour-dates/",
     "note": "Seed/manual from initial calendar file",
     "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-11-13",
+    "city": "Charlotte",
+    "country": "US",
+    "venue": "The Fillmore Charlotte",
+    "url": "https://www.livenation.com/event/G5eVZ_FL9YMJz/jack-white-live-2026",
+    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
+    "source_type": "auto-jsonld"
   },
   {
     "artist": "Jack White",
@@ -933,11 +1183,31 @@
     "artist": "Jack White",
     "date": "2026-11-14",
     "city": "Charlotte",
+    "country": "US",
+    "venue": "The Fillmore Charlotte",
+    "url": "https://www.livenation.com/event/G5eVZ_FL9sEEv/jack-white-live-2026",
+    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
+    "source_type": "auto-jsonld"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-11-14",
+    "city": "Charlotte",
     "country": "NC, United States",
     "venue": "The Fillmore Charlotte, Charlotte, NC",
     "url": "https://jackwhiteiii.com/tour-dates/",
     "note": "Seed/manual from initial calendar file",
     "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-11-16",
+    "city": "Orlando",
+    "country": "US",
+    "venue": "Hard Rock Live Orlando",
+    "url": "https://www.livenation.com/event/1AxZk3FGkeUQgr9/jack-white-live-2026",
+    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
+    "source_type": "auto-jsonld"
   },
   {
     "artist": "Jack White",
@@ -963,11 +1233,31 @@
     "artist": "Jack White",
     "date": "2026-11-17",
     "city": "Miami Beach",
+    "country": "US",
+    "venue": "The Fillmore Miami Beach At The Jackie Gleason Theatre",
+    "url": "https://www.livenation.com/event/vvG1VZ_FjZL_D1/jack-white-live-2026",
+    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
+    "source_type": "auto-jsonld"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-11-17",
+    "city": "Miami Beach",
     "country": "FL, United States",
     "venue": "The Fillmore Miami Beach, Miami Beach, FL",
     "url": "https://jackwhiteiii.com/tour-dates/",
     "note": "Seed/manual from initial calendar file",
     "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-11-18",
+    "city": "Miami Beach",
+    "country": "US",
+    "venue": "The Fillmore Miami Beach At The Jackie Gleason Theatre",
+    "url": "https://www.livenation.com/event/vvG1VZ_FjZLyDG/jack-white-live-2026",
+    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
+    "source_type": "auto-jsonld"
   },
   {
     "artist": "Jack White",
@@ -983,11 +1273,31 @@
     "artist": "Jack White",
     "date": "2026-11-20",
     "city": "Atlanta",
+    "country": "US",
+    "venue": "Coca-Cola Roxy",
+    "url": "https://www.livenation.com/event/vvG1zZ_FrhF9VY/jack-white-live-2026",
+    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
+    "source_type": "auto-jsonld"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-11-20",
+    "city": "Atlanta",
     "country": "GA, United States",
     "venue": "Coca-Cola Roxy, Atlanta, GA",
     "url": "https://jackwhiteiii.com/tour-dates/",
     "note": "Seed/manual from initial calendar file",
     "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-11-21",
+    "city": "Atlanta",
+    "country": "US",
+    "venue": "Coca-Cola Roxy",
+    "url": "https://www.livenation.com/event/vvG1zZ_FrhZ9ww/jack-white-live-2026",
+    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
+    "source_type": "auto-jsonld"
   },
   {
     "artist": "Jack White",
