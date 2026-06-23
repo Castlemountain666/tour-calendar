@@ -1,18 +1,20 @@
-# Lisää tai poista artisteja tästä.
-# enabled: false piilottaa artistin kalenterista poistamatta asetuksia.
-
 - name: Foo Fighters
   enabled: true
   sources:
-    - https://foofighters.com/tour-dates/
-
+  - https://foofighters.com/tour-dates/
+  - https://www.bandsintown.com/a/Foo+Fighters
 - name: Def Leppard
   enabled: true
   sources:
-    - https://defleppard.com/tour/
-
+  - https://defleppard.com/tour/
+  - https://www.bandsintown.com/a/Def+Leppard
 - name: Jack White
   enabled: true
   sources:
-    - https://jackwhiteiii.com/tour-dates/
-    - https://www.livenation.com/artist/K8vZ917us6V/jack-white-events
+  - https://jackwhiteiii.com/tour-dates/
+  - https://www.livenation.com/artist/K8vZ917us6V/jack-white-events
+  - https://www.bandsintown.com/a/Jack+White
+- name: Linking Park
+  enabled: true
+  sources:
+  - https://www.bandsintown.com/a/Linking+Park
