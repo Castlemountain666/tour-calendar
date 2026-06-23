@@ -1,0 +1,8 @@
+# Päivitettävä bändilista
+# Yksi bändi per rivi.
+# Lisää bändi kirjoittamalla nimi uudelle riville.
+# Poista bändi kommentoimalla rivi # -merkillä tai poistamalla rivi.
+
+Foo Fighters
+Def Leppard
+Jack White

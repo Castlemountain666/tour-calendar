@@ -1,0 +1,17 @@
+# Valinnaiset lähdesivut bändeille.
+# Normaalisti muokkaat vain data/bands.txt-tiedostoa.
+# Jos uusi bändi ei löydy pelkällä nimellä, lisää artistille virallinen tour-sivu tähän.
+#
+# Esimerkki:
+# Metallica:
+#   - https://www.metallica.com/tour/
+
+Foo Fighters:
+  - https://foofighters.com/tour-dates/
+
+Def Leppard:
+  - https://defleppard.com/tour/
+
+Jack White:
+  - https://jackwhiteiii.com/tour-dates/
+  - https://www.livenation.com/artist/K8vZ917us6V/jack-white-events
