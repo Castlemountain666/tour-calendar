@@ -18,3 +18,7 @@
   enabled: true
   sources:
   - https://www.bandsintown.com/a/Linking+Park
+- name: Tom Morello
+  enabled: true
+  sources:
+  - https://www.bandsintown.com/a/Tom+Morello
