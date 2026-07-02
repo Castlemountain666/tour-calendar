@@ -1,15 +1,5 @@
 [
   {
-    "artist": "Foo Fighters",
-    "date": "2026-07-01",
-    "city": "Berlin",
-    "country": "Germany",
-    "venue": "Olympiastadion, Berlin",
-    "url": "https://foofighters.com/tour-dates/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
     "artist": "Def Leppard",
     "date": "2026-07-02",
     "city": "London",
@@ -725,8 +715,8 @@
     "city": "Del Mar",
     "country": "US",
     "venue": "The Sound",
-    "url": "https://www.livenation.com/event/vvG1IZ_Fr7ypn8/jack-white-live-2026",
-    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
+    "url": "https://www.livenation.com/event/rZ7HnEZ1Af-AvN/jack-white-jack-white-live-2026",
+    "note": "Automaattisesti luettu lähdesivulta. Title: Jack White - JACK WHITE LIVE 2026",
     "source_type": "auto-jsonld"
   },
   {
