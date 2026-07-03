@@ -1,15 +1,5 @@
 [
   {
-    "artist": "Def Leppard",
-    "date": "2026-07-02",
-    "city": "London",
-    "country": "England",
-    "venue": "The O2 Arena, London",
-    "url": "https://defleppard.com/tour/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
     "artist": "Foo Fighters",
     "date": "2026-07-03",
     "city": "Vienna",
