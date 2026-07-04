@@ -1,15 +1,5 @@
 [
   {
-    "artist": "Foo Fighters",
-    "date": "2026-07-03",
-    "city": "Vienna",
-    "country": "Austria",
-    "venue": "Ernst Happel Stadion, Vienna",
-    "url": "https://foofighters.com/tour-dates/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
     "artist": "Def Leppard",
     "date": "2026-07-04",
     "city": "Birmingham",
