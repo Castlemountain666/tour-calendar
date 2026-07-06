@@ -1,15 +1,5 @@
 [
   {
-    "artist": "Foo Fighters",
-    "date": "2026-07-05",
-    "city": "Milan",
-    "country": "Italy",
-    "venue": "Ippodromo La Maura / I-Days Milano, Milan",
-    "url": "https://foofighters.com/tour-dates/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
     "artist": "Def Leppard",
     "date": "2026-07-06",
     "city": "Manchester",
@@ -705,8 +695,8 @@
     "city": "Las Vegas",
     "country": "US",
     "venue": "Fontainebleau Las Vegas",
-    "url": "https://www.livenation.com/event/1A9Zk3kGkdL68BZ/jack-white-live-2026",
-    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
+    "url": "https://www.livenation.com/event/17AYv0G61Qg4FhH/jack-white-official-fontainebleau-ticket-hotel-packages",
+    "note": "Automaattisesti luettu lähdesivulta. Title: Jack White | Official Fontainebleau Ticket + Hotel Packages",
     "source_type": "auto-jsonld"
   },
   {
