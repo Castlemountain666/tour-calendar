@@ -1,16 +1,6 @@
 [
   {
     "artist": "Def Leppard",
-    "date": "2026-07-06",
-    "city": "Manchester",
-    "country": "England",
-    "venue": "Co-op Live, Manchester",
-    "url": "https://defleppard.com/tour/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
-    "artist": "Def Leppard",
     "date": "2026-07-08",
     "city": "Paris",
     "country": "France",
@@ -675,8 +665,8 @@
     "city": "Del Mar",
     "country": "US",
     "venue": "The Sound",
-    "url": "https://www.livenation.com/event/rZ7HnEZ1Af-AvN/jack-white-jack-white-live-2026",
-    "note": "Automaattisesti luettu lähdesivulta. Title: Jack White - JACK WHITE LIVE 2026",
+    "url": "https://www.livenation.com/event/vvG1IZ_Fr7ypn8/jack-white-live-2026",
+    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
     "source_type": "auto-jsonld"
   },
   {
@@ -695,8 +685,8 @@
     "city": "Las Vegas",
     "country": "US",
     "venue": "Fontainebleau Las Vegas",
-    "url": "https://www.livenation.com/event/17AYv0G61Qg4FhH/jack-white-official-fontainebleau-ticket-hotel-packages",
-    "note": "Automaattisesti luettu lähdesivulta. Title: Jack White | Official Fontainebleau Ticket + Hotel Packages",
+    "url": "https://www.livenation.com/event/1A9Zk3kGkdL68BZ/jack-white-live-2026",
+    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
     "source_type": "auto-jsonld"
   },
   {
