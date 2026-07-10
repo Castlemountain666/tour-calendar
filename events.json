@@ -1,25 +1,5 @@
 [
   {
-    "artist": "Def Leppard",
-    "date": "2026-07-08",
-    "city": "Paris",
-    "country": "France",
-    "venue": "Accor Arena, Paris",
-    "url": "https://defleppard.com/tour/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
-    "artist": "Foo Fighters",
-    "date": "2026-07-08",
-    "city": "Madrid",
-    "country": "Spain",
-    "venue": "Valdebebas / Mad Cool, Madrid",
-    "url": "https://foofighters.com/tour-dates/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
     "artist": "Foo Fighters",
     "date": "2026-07-10",
     "city": "Lisbon",
