@@ -1,35 +1,5 @@
 [
   {
-    "artist": "Foo Fighters",
-    "date": "2026-07-10",
-    "city": "Lisbon",
-    "country": "Portugal",
-    "venue": "Passeio Marítimo de Algés / NOS Alive, Lisbon",
-    "url": "https://foofighters.com/tour-dates/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
-    "artist": "Jack White",
-    "date": "2026-07-10",
-    "city": "Washington",
-    "country": "US",
-    "venue": "The Anthem",
-    "url": "https://www.livenation.com/event/164Zk3k-oZAu77u8/jack-white-live-2026",
-    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
-    "source_type": "auto-jsonld"
-  },
-  {
-    "artist": "Jack White",
-    "date": "2026-07-10",
-    "city": "Washington",
-    "country": "DC, United States",
-    "venue": "The Anthem, Washington, DC",
-    "url": "https://jackwhiteiii.com/tour-dates/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
     "artist": "Jack White",
     "date": "2026-07-11",
     "city": "Brooklyn",
@@ -645,8 +615,8 @@
     "city": "Del Mar",
     "country": "US",
     "venue": "The Sound",
-    "url": "https://www.livenation.com/event/rZ7HnEZ1Af-AvN/jack-white-jack-white-live-2026",
-    "note": "Automaattisesti luettu lähdesivulta. Title: Jack White - JACK WHITE LIVE 2026",
+    "url": "https://www.livenation.com/event/vvG1IZ_Fr7ypn8/jack-white-live-2026",
+    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
     "source_type": "auto-jsonld"
   },
   {
