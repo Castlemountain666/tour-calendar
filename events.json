@@ -1,26 +1,6 @@
 [
   {
     "artist": "Jack White",
-    "date": "2026-07-12",
-    "city": "Brooklyn",
-    "country": "US",
-    "venue": "Brooklyn Paramount",
-    "url": "https://www.livenation.com/event/k7v17_Fr4G7HbJK/jack-white-live-2026",
-    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
-    "source_type": "auto-jsonld"
-  },
-  {
-    "artist": "Jack White",
-    "date": "2026-07-12",
-    "city": "Brooklyn",
-    "country": "NY, United States",
-    "venue": "Brooklyn Paramount, Brooklyn, NY",
-    "url": "https://jackwhiteiii.com/tour-dates/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
-    "artist": "Jack White",
     "date": "2026-07-14",
     "city": "Toronto",
     "country": "CA",
