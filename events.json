@@ -1,26 +1,6 @@
 [
   {
     "artist": "Jack White",
-    "date": "2026-07-14",
-    "city": "Toronto",
-    "country": "CA",
-    "venue": "RBC Amphitheatre",
-    "url": "https://www.livenation.com/event/1A8Zk3FGkeDScl0/jack-white-live-2026",
-    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
-    "source_type": "auto-jsonld"
-  },
-  {
-    "artist": "Jack White",
-    "date": "2026-07-14",
-    "city": "Toronto",
-    "country": "Canada",
-    "venue": "RBC Amphitheatre, Toronto",
-    "url": "https://jackwhiteiii.com/tour-dates/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
-    "artist": "Jack White",
     "date": "2026-07-15",
     "city": "Essex Junction",
     "country": "VT, United States",
