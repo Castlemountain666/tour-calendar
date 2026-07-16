@@ -1,16 +1,6 @@
 [
   {
     "artist": "Jack White",
-    "date": "2026-07-15",
-    "city": "Essex Junction",
-    "country": "VT, United States",
-    "venue": "Champlain Valley Exposition, Essex Junction, VT",
-    "url": "https://jackwhiteiii.com/tour-dates/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
-    "artist": "Jack White",
     "date": "2026-07-17",
     "city": "Boston",
     "country": "US",
