@@ -1,16 +1,6 @@
 [
   {
     "artist": "Jack White",
-    "date": "2026-07-23",
-    "city": "Chicago",
-    "country": "IL, United States",
-    "venue": "Radius, Chicago, IL",
-    "url": "https://jackwhiteiii.com/tour-dates/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
-    "artist": "Jack White",
     "date": "2026-07-24",
     "city": "Chicago",
     "country": "IL, United States",
