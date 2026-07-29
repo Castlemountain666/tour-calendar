@@ -445,8 +445,8 @@
     "city": "Las Vegas",
     "country": "US",
     "venue": "Fontainebleau Las Vegas",
-    "url": "https://www.livenation.com/event/1A9Zk3kGkdL68BZ/jack-white-live-2026",
-    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
+    "url": "https://www.livenation.com/event/17AYv0G61Qg4FhH/jack-white-official-fontainebleau-ticket-hotel-packages",
+    "note": "Automaattisesti luettu lähdesivulta. Title: Jack White | Official Fontainebleau Ticket + Hotel Packages",
     "source_type": "auto-jsonld"
   },
   {
@@ -538,6 +538,16 @@
     "url": "https://jackwhiteiii.com/tour-dates/",
     "note": "Seed/manual from initial calendar file",
     "source_type": "manual"
+  },
+  {
+    "artist": "Jack White",
+    "date": "2026-10-10",
+    "city": "Nashville",
+    "country": "US",
+    "venue": "The Truth",
+    "url": "https://www.livenation.com/event/G5viZ_2xx3i5-/jack-white-live-2026",
+    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
+    "source_type": "auto-jsonld"
   },
   {
     "artist": "Def Leppard",
