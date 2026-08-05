@@ -1,16 +1,6 @@
 [
   {
     "artist": "Foo Fighters",
-    "date": "2026-08-04",
-    "city": "Toronto",
-    "country": "Canada",
-    "venue": "Rogers Stadium, Toronto",
-    "url": "https://foofighters.com/tour-dates/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
-    "artist": "Foo Fighters",
     "date": "2026-08-06",
     "city": "Detroit",
     "country": "United States",
