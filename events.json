@@ -1,16 +1,6 @@
 [
   {
     "artist": "Foo Fighters",
-    "date": "2026-08-08",
-    "city": "Chicago",
-    "country": "United States",
-    "venue": "Soldier Field, Chicago",
-    "url": "https://foofighters.com/tour-dates/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
-    "artist": "Foo Fighters",
     "date": "2026-08-10",
     "city": "Cleveland",
     "country": "United States",
