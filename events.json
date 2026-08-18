@@ -1,35 +1,5 @@
 [
   {
-    "artist": "Foo Fighters",
-    "date": "2026-08-17",
-    "city": "Washington",
-    "country": "DC, United States",
-    "venue": "Nationals Park, Washington, DC",
-    "url": "https://foofighters.com/tour-dates/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
-    "artist": "Jack White",
-    "date": "2026-08-17",
-    "city": "Seoul",
-    "country": "South Korea",
-    "venue": "YES24 Live Hall",
-    "url": "https://www.livenation.com/event/intl_1672337/jack-white-live-2026-in-seoul",
-    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026 in Seoul",
-    "source_type": "auto-jsonld"
-  },
-  {
-    "artist": "Jack White",
-    "date": "2026-08-17",
-    "city": "Seoul",
-    "country": "South Korea",
-    "venue": "YES24 Live Hall, Seoul",
-    "url": "https://jackwhiteiii.com/tour-dates/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
     "artist": "Jack White",
     "date": "2026-08-19",
     "city": "Shanghai",
