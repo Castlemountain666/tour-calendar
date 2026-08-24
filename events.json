@@ -1,16 +1,6 @@
 [
   {
     "artist": "Jack White",
-    "date": "2026-08-23",
-    "city": "Istanbul",
-    "country": "Turkey",
-    "venue": "Babylon Soundgarden, Istanbul",
-    "url": "https://jackwhiteiii.com/tour-dates/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
-    "artist": "Jack White",
     "date": "2026-08-25",
     "city": "London",
     "country": "United Kingdom",
