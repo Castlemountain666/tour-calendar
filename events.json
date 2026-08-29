@@ -1,26 +1,6 @@
 [
   {
     "artist": "Jack White",
-    "date": "2026-08-28",
-    "city": "Bristol",
-    "country": "United Kingdom",
-    "venue": "The Prospect Building",
-    "url": "https://www.livenation.com/event/intl_1665803/jack-white-live-2026",
-    "note": "Automaattisesti luettu lähdesivulta. Title: Jack White: LIVE 2026",
-    "source_type": "auto-jsonld"
-  },
-  {
-    "artist": "Jack White",
-    "date": "2026-08-28",
-    "city": "Bristol",
-    "country": "England",
-    "venue": "The Prospect Building, Bristol",
-    "url": "https://jackwhiteiii.com/tour-dates/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
-    "artist": "Jack White",
     "date": "2026-08-29",
     "city": "Newcastle",
     "country": "United Kingdom",
