@@ -1,16 +1,6 @@
 [
   {
     "artist": "Jack White",
-    "date": "2026-08-31",
-    "city": "Belfast",
-    "country": "Northern Ireland",
-    "venue": "The Telegraph Building, Belfast",
-    "url": "https://jackwhiteiii.com/tour-dates/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
-    "artist": "Jack White",
     "date": "2026-09-01",
     "city": "Dublin",
     "country": "Ireland",
