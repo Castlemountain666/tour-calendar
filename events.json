@@ -1,16 +1,6 @@
 [
   {
     "artist": "Foo Fighters",
-    "date": "2026-09-04",
-    "city": "Rio de Janeiro",
-    "country": "Brazil",
-    "venue": "Barra Olympic Park / Rock in Rio, Rio de Janeiro",
-    "url": "https://foofighters.com/tour-dates/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
-    "artist": "Foo Fighters",
     "date": "2026-09-12",
     "city": "Fargo",
     "country": "United States",
