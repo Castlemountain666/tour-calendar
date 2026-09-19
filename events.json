@@ -1,16 +1,6 @@
 [
   {
     "artist": "Jack White",
-    "date": "2026-09-18",
-    "city": "Newport",
-    "country": "KY, United States",
-    "venue": "MegaCorp Pavilion, Newport, KY",
-    "url": "https://jackwhiteiii.com/tour-dates/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
-    "artist": "Jack White",
     "date": "2026-09-19",
     "city": "East Aurora",
     "country": "NY, United States",
