@@ -1,15 +1,5 @@
 [
   {
-    "artist": "Jack White",
-    "date": "2026-09-19",
-    "city": "East Aurora",
-    "country": "NY, United States",
-    "venue": "Borderland Festival, East Aurora, NY",
-    "url": "https://jackwhiteiii.com/tour-dates/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
     "artist": "Foo Fighters",
     "date": "2026-09-20",
     "city": "Vancouver",
