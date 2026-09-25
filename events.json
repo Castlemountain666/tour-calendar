@@ -1,35 +1,5 @@
 [
   {
-    "artist": "Foo Fighters",
-    "date": "2026-09-24",
-    "city": "Louisville",
-    "country": "United States",
-    "venue": "Kentucky Exposition Center / Bourbon & Beyond, Louisville",
-    "url": "https://foofighters.com/tour-dates/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
-    "artist": "Jack White",
-    "date": "2026-09-24",
-    "city": "San Francisco",
-    "country": "US",
-    "venue": "Bill Graham Civic Auditorium",
-    "url": "https://www.livenation.com/event/G5vYZ_FxGxIkR/jack-white-live-2026",
-    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
-    "source_type": "auto-jsonld"
-  },
-  {
-    "artist": "Jack White",
-    "date": "2026-09-24",
-    "city": "San Francisco",
-    "country": "CA, United States",
-    "venue": "Bill Graham Civic Auditorium, San Francisco, CA",
-    "url": "https://jackwhiteiii.com/tour-dates/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
     "artist": "Jack White",
     "date": "2026-09-25",
     "city": "Pomona",
