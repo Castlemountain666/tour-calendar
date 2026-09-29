@@ -1,26 +1,6 @@
 [
   {
     "artist": "Jack White",
-    "date": "2026-09-28",
-    "city": "Hollywood",
-    "country": "US",
-    "venue": "Hollywood Palladium",
-    "url": "https://www.livenation.com/event/vv1ke8v0-zGAC5kNH/jack-white-live-2026",
-    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
-    "source_type": "auto-jsonld"
-  },
-  {
-    "artist": "Jack White",
-    "date": "2026-09-28",
-    "city": "Los Angeles",
-    "country": "CA, United States",
-    "venue": "Hollywood Palladium, Los Angeles, CA",
-    "url": "https://jackwhiteiii.com/tour-dates/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
-    "artist": "Jack White",
     "date": "2026-09-29",
     "city": "Hollywood",
     "country": "US",
