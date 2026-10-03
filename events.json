@@ -1,26 +1,6 @@
 [
   {
     "artist": "Jack White",
-    "date": "2026-10-02",
-    "city": "Las Vegas",
-    "country": "US",
-    "venue": "Fontainebleau Las Vegas",
-    "url": "https://www.livenation.com/event/1A9Zk3kGkdL68BZ/jack-white-live-2026",
-    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
-    "source_type": "auto-jsonld"
-  },
-  {
-    "artist": "Jack White",
-    "date": "2026-10-02",
-    "city": "Las Vegas",
-    "country": "NV, United States",
-    "venue": "Fontainebleau Las Vegas, Las Vegas, NV",
-    "url": "https://jackwhiteiii.com/tour-dates/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
-    "artist": "Jack White",
     "date": "2026-10-03",
     "city": "Phoenix",
     "country": "US",
