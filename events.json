@@ -1,26 +1,6 @@
 [
   {
     "artist": "Jack White",
-    "date": "2026-10-03",
-    "city": "Phoenix",
-    "country": "US",
-    "venue": "Arizona Financial Theatre",
-    "url": "https://www.livenation.com/event/1A_Zk36GkeYM9z7/jack-white-live-2026",
-    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
-    "source_type": "auto-jsonld"
-  },
-  {
-    "artist": "Jack White",
-    "date": "2026-10-03",
-    "city": "Phoenix",
-    "country": "AZ, United States",
-    "venue": "Arizona Financial Theatre, Phoenix, AZ",
-    "url": "https://jackwhiteiii.com/tour-dates/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
-    "artist": "Jack White",
     "date": "2026-10-04",
     "city": "Albuquerque",
     "country": "NM, United States",
