@@ -1,16 +1,6 @@
 [
   {
     "artist": "Jack White",
-    "date": "2026-10-04",
-    "city": "Albuquerque",
-    "country": "NM, United States",
-    "venue": "Revel, Albuquerque, NM",
-    "url": "https://jackwhiteiii.com/tour-dates/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
-    "artist": "Jack White",
     "date": "2026-10-06",
     "city": "Austin",
     "country": "US",
