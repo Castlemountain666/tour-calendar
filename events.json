@@ -1,26 +1,6 @@
 [
   {
     "artist": "Jack White",
-    "date": "2026-10-06",
-    "city": "Austin",
-    "country": "US",
-    "venue": "Moody Amphitheater",
-    "url": "https://www.livenation.com/event/G5dIZ_FxZBVJ4/jack-white-live-2026",
-    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
-    "source_type": "auto-jsonld"
-  },
-  {
-    "artist": "Jack White",
-    "date": "2026-10-06",
-    "city": "Austin",
-    "country": "TX, United States",
-    "venue": "Moody Amphitheater, Austin, TX",
-    "url": "https://jackwhiteiii.com/tour-dates/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
-    "artist": "Jack White",
     "date": "2026-10-07",
     "city": "Dallas",
     "country": "TX, United States",
