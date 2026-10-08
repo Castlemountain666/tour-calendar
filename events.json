@@ -1,16 +1,6 @@
 [
   {
     "artist": "Jack White",
-    "date": "2026-10-07",
-    "city": "Dallas",
-    "country": "TX, United States",
-    "venue": "The Bomb Factory, Dallas, TX",
-    "url": "https://jackwhiteiii.com/tour-dates/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
-    "artist": "Jack White",
     "date": "2026-10-09",
     "city": "Nashville",
     "country": "US",
