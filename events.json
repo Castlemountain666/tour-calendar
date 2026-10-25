@@ -1,16 +1,6 @@
 [
   {
     "artist": "Def Leppard",
-    "date": "2026-10-24",
-    "city": "San Salvador",
-    "country": "El Salvador",
-    "venue": "Cuscatlán Stadium, San Salvador",
-    "url": "https://defleppard.com/tour/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
-    "artist": "Def Leppard",
     "date": "2026-10-27",
     "city": "Alajuela",
     "country": "Costa Rica",
