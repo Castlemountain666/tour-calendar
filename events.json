@@ -1,16 +1,6 @@
 [
   {
     "artist": "Def Leppard",
-    "date": "2026-10-30",
-    "city": "Quito",
-    "country": "Ecuador",
-    "venue": "Estadio Olímpico Atahualpa, Quito",
-    "url": "https://defleppard.com/tour/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
-    "artist": "Def Leppard",
     "date": "2026-11-02",
     "city": "Bogotá",
     "country": "Colombia",
