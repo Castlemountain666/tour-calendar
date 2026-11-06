@@ -1,25 +1,5 @@
 [
   {
-    "artist": "Def Leppard",
-    "date": "2026-11-05",
-    "city": "Buenos Aires",
-    "country": "Argentina",
-    "venue": "Movistar Arena, Buenos Aires",
-    "url": "https://defleppard.com/tour/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
-    "artist": "Foo Fighters",
-    "date": "2026-11-05",
-    "city": "Brisbane",
-    "country": "Australia",
-    "venue": "Suncorp Stadium, Brisbane",
-    "url": "https://foofighters.com/tour-dates/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
     "artist": "Foo Fighters",
     "date": "2026-11-07",
     "city": "Townsville",
