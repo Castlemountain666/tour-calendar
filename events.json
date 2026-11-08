@@ -1,15 +1,5 @@
 [
   {
-    "artist": "Foo Fighters",
-    "date": "2026-11-07",
-    "city": "Townsville",
-    "country": "Australia",
-    "venue": "Queensland Country Bank Stadium, Townsville",
-    "url": "https://foofighters.com/tour-dates/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
     "artist": "Def Leppard",
     "date": "2026-11-08",
     "city": "Santiago",
