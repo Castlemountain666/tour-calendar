@@ -1,35 +1,5 @@
 [
   {
-    "artist": "Def Leppard",
-    "date": "2026-11-08",
-    "city": "Santiago",
-    "country": "Chile",
-    "venue": "Movistar Arena, Santiago",
-    "url": "https://defleppard.com/tour/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
-    "artist": "Jack White",
-    "date": "2026-11-08",
-    "city": "Minneapolis",
-    "country": "US",
-    "venue": "Armory",
-    "url": "https://www.livenation.com/event/vv1AkZk3kGkdA1r6y/jack-white-live-2026",
-    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
-    "source_type": "auto-jsonld"
-  },
-  {
-    "artist": "Jack White",
-    "date": "2026-11-08",
-    "city": "Minneapolis",
-    "country": "MN, United States",
-    "venue": "The Armory, Minneapolis, MN",
-    "url": "https://jackwhiteiii.com/tour-dates/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
     "artist": "Jack White",
     "date": "2026-11-09",
     "city": "Madison",
