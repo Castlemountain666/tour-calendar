@@ -1,36 +1,6 @@
 [
   {
     "artist": "Foo Fighters",
-    "date": "2026-11-10",
-    "city": "Sydney",
-    "country": "Australia",
-    "venue": "Accor Stadium, Sydney",
-    "url": "https://foofighters.com/tour-dates/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
-    "artist": "Jack White",
-    "date": "2026-11-10",
-    "city": "Milwaukee",
-    "country": "US",
-    "venue": "Landmark Credit Union Live",
-    "url": "https://www.livenation.com/event/vv1kvYv0-IGA1ZoTS/jack-white-live-2026",
-    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
-    "source_type": "auto-jsonld"
-  },
-  {
-    "artist": "Jack White",
-    "date": "2026-11-10",
-    "city": "Milwaukee",
-    "country": "WI, United States",
-    "venue": "Landmark Credit Union Live, Milwaukee, WI",
-    "url": "https://jackwhiteiii.com/tour-dates/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
-    "artist": "Foo Fighters",
     "date": "2026-11-12",
     "city": "Newcastle",
     "country": "Australia",
