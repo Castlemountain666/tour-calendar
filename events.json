@@ -1,35 +1,5 @@
 [
   {
-    "artist": "Foo Fighters",
-    "date": "2026-11-12",
-    "city": "Newcastle",
-    "country": "Australia",
-    "venue": "McDonald Jones Stadium, Newcastle",
-    "url": "https://foofighters.com/tour-dates/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
-    "artist": "Jack White",
-    "date": "2026-11-12",
-    "city": "Pittsburgh",
-    "country": "US",
-    "venue": "Citizens Live at The Wylie",
-    "url": "https://www.livenation.com/event/16pZk36ayZA885eC/jack-white-live-2026",
-    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
-    "source_type": "auto-jsonld"
-  },
-  {
-    "artist": "Jack White",
-    "date": "2026-11-12",
-    "city": "Pittsburgh",
-    "country": "PA, United States",
-    "venue": "Citizens Live at The Wylie, Pittsburgh, PA",
-    "url": "https://jackwhiteiii.com/tour-dates/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
     "artist": "Jack White",
     "date": "2026-11-13",
     "city": "Charlotte",
