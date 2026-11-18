@@ -1,35 +1,5 @@
 [
   {
-    "artist": "Foo Fighters",
-    "date": "2026-11-17",
-    "city": "Adelaide",
-    "country": "Australia",
-    "venue": "Coopers Stadium, Adelaide",
-    "url": "https://foofighters.com/tour-dates/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
-    "artist": "Jack White",
-    "date": "2026-11-17",
-    "city": "Miami Beach",
-    "country": "US",
-    "venue": "The Fillmore Miami Beach At The Jackie Gleason Theatre",
-    "url": "https://www.livenation.com/event/vvG1VZ_FjZL_D1/jack-white-live-2026",
-    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
-    "source_type": "auto-jsonld"
-  },
-  {
-    "artist": "Jack White",
-    "date": "2026-11-17",
-    "city": "Miami Beach",
-    "country": "FL, United States",
-    "venue": "The Fillmore Miami Beach, Miami Beach, FL",
-    "url": "https://jackwhiteiii.com/tour-dates/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
     "artist": "Jack White",
     "date": "2026-11-18",
     "city": "Miami Beach",
