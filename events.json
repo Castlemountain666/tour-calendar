@@ -1,25 +1,5 @@
 [
   {
-    "artist": "Jack White",
-    "date": "2026-11-21",
-    "city": "Atlanta",
-    "country": "US",
-    "venue": "Coca-Cola Roxy",
-    "url": "https://www.livenation.com/event/vvG1zZ_FrhZ9ww/jack-white-live-2026",
-    "note": "Automaattisesti luettu lähdesivulta. Title: JACK WHITE LIVE 2026",
-    "source_type": "auto-jsonld"
-  },
-  {
-    "artist": "Jack White",
-    "date": "2026-11-21",
-    "city": "Atlanta",
-    "country": "GA, United States",
-    "venue": "Coca-Cola Roxy, Atlanta, GA",
-    "url": "https://jackwhiteiii.com/tour-dates/",
-    "note": "Seed/manual from initial calendar file",
-    "source_type": "manual"
-  },
-  {
     "artist": "Foo Fighters",
     "date": "2027-01-19",
     "city": "Christchurch",

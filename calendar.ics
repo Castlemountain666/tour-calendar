@@ -9,33 +9,8 @@ X-WR-TIMEZONE:Europe/Helsinki
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:a7e13644ffadcb7f137a0c981dc3c982500c1023@tour-calendar
-DTSTAMP:20261121T131416Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:Jack White – Coca-Cola Roxy
-LOCATION:Coca-Cola Roxy\, Atlanta\, US
-DESCRIPTION:Jack White tour/event date. Source: https://www.livenation.co
- m/event/vvG1zZ_FrhZ9ww/jack-white-live-2026. Automaattisesti luettu lähd
- esivulta. Title: JACK WHITE LIVE 2026. Source type: auto-jsonld
-URL:https://www.livenation.com/event/vvG1zZ_FrhZ9ww/jack-white-live-2026
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:e75cd27ac19c11350db62b16f20f501707a52827@tour-calendar
-DTSTAMP:20261121T131416Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:Jack White – Coca-Cola Roxy\, Atlanta\, GA
-LOCATION:Coca-Cola Roxy\, Atlanta\, GA\, Atlanta\, GA\, United States
-DESCRIPTION:Jack White tour/event date. Source: https://jackwhiteiii.com/
- tour-dates/. Seed/manual from initial calendar file. Source type: manual
-URL:https://jackwhiteiii.com/tour-dates/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:7d843117cfd479c647f07ffb7d131cd2c9380508@tour-calendar
-DTSTAMP:20261121T131416Z
+DTSTAMP:20261122T130335Z
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270120
 SUMMARY:Foo Fighters – One New Zealand Stadium\, Christchurch
@@ -49,7 +24,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:e559ff6de9c25a508a16cb2251c1b6c5468ae079@tour-calendar
-DTSTAMP:20261121T131416Z
+DTSTAMP:20261122T130335Z
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
 SUMMARY:Foo Fighters – Western Springs Stadium\, Auckland
@@ -62,7 +37,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:f3b162ce3b55feb8b49ebfed5b0983c2a1fb3c8a@tour-calendar
-DTSTAMP:20261121T131416Z
+DTSTAMP:20261122T130335Z
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270126
 SUMMARY:Foo Fighters – HBF Park\, Perth
